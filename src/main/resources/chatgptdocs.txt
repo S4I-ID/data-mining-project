@@ -1,0 +1,1399 @@
+    --- QUESTION 1.0
+For these documents:
+ 0. the new york sun
+ 1. william randolph hearst
+ 2. the spectator
+ 3. the wall street journal
+ 4. media of the united states
+ 5. media of china
+ 6. houston chronicle
+ 7. los angeles times
+ 8. new york post
+ 9. history of british newspapers
+  find the one that is most likely the answer to the question: NEWSPAPERS The dominant paper in our nation's capital, it's among the top 10 U.S. papers in circulation.Answer with only one number between 0 and 9.
+
+      --- QUESTION 2.0
+For these documents:
+ 0. taiwan
+ 1. political status of taiwan
+ 2. history of the republic of china
+ 3. united nations general assembly resolution 505
+ 4. one-china policy
+ 5. china–united states relations
+ 6. history of cyprus
+ 7. history of oceania
+ 8. puerto rico
+ 9. interstate 496
+  find the one that is most likely the answer to the question: OLD YEAR'S RESOLUTIONS The practice of pre-authorizing presidential use of force dates to a 1955 resolution re: this island near mainland China.Answer with only one number between 0 and 9.
+
+      --- QUESTION 3.0
+For these documents:
+ 0. the wall street journal
+ 1. the baltimore sun
+ 2. the washington post
+ 3. the atlanta journal-constitution
+ 4. william randolph hearst
+ 5. los angeles times
+ 6. william jardine (merchant)
+ 7. newseum
+ 8. yellow journalism
+ 9. james stewart
+  find the one that is most likely the answer to the question: NEWSPAPERS Daniel Hertzberg & James B. Stewart of this paper shared a 1988 Pulitzer for their stories about insider trading.Answer with only one number between 0 and 9.
+
+      --- QUESTION 4.0
+For these documents:
+ 0. baul
+ 1. starlight express
+ 2. jerome kern
+ 3. john mellencamp
+ 4. irving berlin
+ 5. the hives
+ 6. gypsy (musical)
+ 7. neneh cherry
+ 8. keyshia cole
+ 9. stevie wonder
+  find the one that is most likely the answer to the question: BROADWAY LYRICS Song that says, you make me smile with my heart; your looks are laughable, unphotographable.Answer with only one number between 0 and 9.
+
+      --- QUESTION 5.0
+For these documents:
+ 0. the salvation army
+ 1. change ringing
+ 2. goodwill industries
+ 3. givewell
+ 4. pride london
+ 5. nortel
+ 6. capital (radio network)
+ 7. meat loaf
+ 8. canadian broadcasting corporation
+ 9. education reform
+  find the one that is most likely the answer to the question: POTPOURRI In 2011 bell ringers for this charity started accepting digital donations to its red kettle.Answer with only one number between 0 and 9.
+
+      --- QUESTION 6.0
+For these documents:
+ 0. jen stark
+ 1. nativity scene
+ 2. metropolitan museum of art
+ 3. ural tansykbayev
+ 4. utah museum of fine arts
+ 5. roman de salvo
+ 6. hermitage museum
+ 7. art museum
+ 8. walker art center
+ 9. museum of contemporary art, chicago
+  find the one that is most likely the answer to the question: STATE OF THE ART MUSEUM  The Naples Museum of Art.Answer with only one number between 0 and 9.
+
+      --- QUESTION 7.0
+For these documents:
+ 0. tintoretto
+ 1. diego velázquez
+ 2. leonardo da vinci
+ 3. nicola cianfanelli
+ 4. antonio da correggio
+ 5. giovanni battista gaulli
+ 6. caravaggio
+ 7. giorgio vasari
+ 8. hieronymus bosch
+ 9. themes in italian renaissance painting
+  find the one that is most likely the answer to the question: TIN MEN This Italian painter depicted the Adoration of the Golden Calf.Answer with only one number between 0 and 9.
+
+      --- QUESTION 8.0
+For these documents:
+ 0. jackie joyner-kersee
+ 1. university of california, los angeles
+ 2. kareem abdul-jabbar
+ 3. kevin love
+ 4. michigan wolverines
+ 5. dean smith
+ 6. reggie miller
+ 7. wilma rudolph
+ 8. nc state wolfpack men's basketball
+ 9. bob knight
+  find the one that is most likely the answer to the question: UCLA CELEBRITY ALUMNI This woman who won consecutive heptathlons at the Olympics went to UCLA on a basketball scholarship.Answer with only one number between 0 and 9.
+
+      --- QUESTION 9.0
+For these documents:
+ 0. hammer and sickle
+ 1. honda accord
+ 2. spoke
+ 3. chrysler new yorker
+ 4. chevrolet celebrity
+ 5. amc matador
+ 6. penny-farthing
+ 7. toyota auris
+ 8. chevrolet impala
+ 9. wheel
+  find the one that is most likely the answer to the question: SERVICE ORGANIZATIONS Originally this club's emblem was a wagon wheel; now it's a gearwheel with 24 cogs & 6 spokes.Answer with only one number between 0 and 9.
+
+      --- QUESTION 10.0
+For these documents:
+ 0. cairo
+ 1. khartoum
+ 2. nile
+ 3. pan-american highway (north america)
+ 4. murcia
+ 5. omdurman
+ 6. tunis
+ 7. tripoli, lebanon
+ 8. canary islands
+ 9. lleida
+  find the one that is most likely the answer to the question: AFRICAN CITIES Several bridges, including El Tahrir, cross the Nile in this capital.Answer with only one number between 0 and 9.
+
+      --- QUESTION 11.0
+For these documents:
+ 0. philippe pétain
+ 1. charles de gaulle
+ 2. erwin rommel
+ 3. history of france
+ 4. polish contribution to world war ii
+ 5. free french forces
+ 6. anglo-french supreme war council
+ 7. napoleon iii
+ 8. battle of britain
+ 9. munich agreement
+  find the one that is most likely the answer to the question: HISTORICAL QUOTES After the fall of France in 1940, this general told his country, France has lost a battle. But France has not lost the war.Answer with only one number between 0 and 9.
+
+      --- QUESTION 12.0
+For these documents:
+ 0. museum of science and industry (chicago)
+ 1. anders zorn
+ 2. metropolitan museum of art
+ 3. ural tansykbayev
+ 4. utah museum of fine arts
+ 5. roman de salvo
+ 6. hermitage museum
+ 7. art museum
+ 8. sculpture of the united states
+ 9. walker art center
+  find the one that is most likely the answer to the question: STATE OF THE ART MUSEUM  The Taft Museum of Art.Answer with only one number between 0 and 9.
+
+      --- QUESTION 13.0
+For these documents:
+ 0. uss arizona memorial
+ 1. robert ballard
+ 2. roberto cofresí
+ 3. thomas w. lawson (ship)
+ 4. friend to all nations
+ 5. burma railway
+ 6. battle of trafalgar
+ 7. viking runestones
+ 8. css virginia
+ 9. richard henry dana, jr.
+  find the one that is most likely the answer to the question: CEMETERIES The mast from the USS Maine is part of the memorial to the ship & crew at this national cemetery.Answer with only one number between 0 and 9.
+
+      --- QUESTION 14.0
+For these documents:
+ 0. heath ledger
+ 1. jack nicholson
+ 2. jessica lange
+ 3. sophia loren
+ 4. ang lee
+ 5. warren beatty
+ 6. geoffrey rush
+ 7. nicole kidman
+ 8. glenn close
+ 9. charlize theron
+  find the one that is most likely the answer to the question: GOLDEN GLOBE WINNERS In 2009: Joker on film.Answer with only one number between 0 and 9.
+
+      --- QUESTION 15.0
+For these documents:
+ 0. napoleonic wars
+ 1. image:castillaleon 1360.png|thumb|iberian polities circa 1360.
+ 2. ferdinand vii of spain
+ 3. war of the sixth coalition
+ 4. fitzroy somerset, 1st baron raglan
+ 5. battle of roliça
+ 6. battle of lundy's lane
+ 7. honoré théodore maxime gazan de la peyrière
+ 8. papal states
+ 9. godfrey macdonald, 3rd baron macdonald of slate
+  find the one that is most likely the answer to the question: HISTORICAL HODGEPODGE It was the peninsula fought over in the peninsular war of 1808 to 1814.Answer with only one number between 0 and 9.
+
+      --- QUESTION 16.0
+For these documents:
+ 0. chengdu
+ 1. environmental movement
+ 2. geography of china
+ 3. academy of natural sciences of drexel university
+ 4. chinese music
+ 5. red panda
+ 6. kawaii
+ 7. biodiversity
+ 8. monteverde cloud forest reserve
+ 9. vietnamese cuisine
+  find the one that is most likely the answer to the question: CONSERVATION In 1980 China founded a center for these cute creatures in its bamboo-rich Wolong Nature Preserve.Answer with only one number between 0 and 9.
+
+      --- QUESTION 17.0
+For these documents:
+ 0. george michael
+ 1. enrico castellani
+ 2. subcultures in lithuania
+ 3. edgar degas
+ 4. schweizer sgs 1-24
+ 5. marsyas
+ 6. boston, lincolnshire
+ 7. moscow ballet (united states)
+ 8. prince (musician)
+ 9. chuck barris
+  find the one that is most likely the answer to the question: '80s NO.1 HITMAKERS 1988: Father Figure.Answer with only one number between 0 and 9.
+
+      --- QUESTION 18.0
+For these documents:
+ 0. gloria steinem
+ 1. whitney houston
+ 2. shirley maclaine
+ 3. john huston
+ 4. my fair lady
+ 5. bette davis
+ 6. gore vidal
+ 7. joan crawford
+ 8. mary pickford
+ 9. citizen kane
+  find the one that is most likely the answer to the question: AFRICAN-AMERICAN WOMEN In an essay defending this 2011 film, Myrlie Evers-Williams said, My mother was this film & so was her mother.Answer with only one number between 0 and 9.
+
+      --- QUESTION 19.0
+For these documents:
+ 0. knights of columbus
+ 1. georgetown university
+ 2. studentenverbindung
+ 3. omega psi phi
+ 4. cartellverband
+ 5. traditionalist catholic
+ 6. st. vincent de paul church (manhattan)
+ 7. sigma tau gamma
+ 8. lambda theta phi
+ 9. k.a.v. lovania leuven
+  find the one that is most likely the answer to the question: SERVICE ORGANIZATIONS Father Michael McGivney founded this fraternal society for Catholic laymen in 1882.Answer with only one number between 0 and 9.
+
+      --- QUESTION 20.0
+For these documents:
+ 0. golden eagle
+ 1. maasai mara
+ 2. tundi spring agardy
+ 3. red wolf
+ 4. itasca state park
+ 5. yellowstone national park
+ 6. united states fish and wildlife service
+ 7. falconry
+ 8. gray wolf
+ 9. robert rossen
+  find the one that is most likely the answer to the question: CONSERVATION Early projects of the WWF, this organization, included work with the bald eagle & the red wolf.Answer with only one number between 0 and 9.
+
+      --- QUESTION 21.0
+For these documents:
+ 0. komodo dragon
+ 1. yellowstone national park
+ 2. dingo
+ 3. reptile
+ 4. stanley baldwin
+ 5. enoch powell
+ 6. privatisation of british rail
+ 7. dragon (middle-earth)
+ 8. political positions of gary johnson
+ 9. bonar law
+  find the one that is most likely the answer to the question: CONSERVATION Indonesia's largest lizard, it's protected from poachers, though we wish it could breathe fire to do the job itself.Answer with only one number between 0 and 9.
+
+      --- QUESTION 22.0
+For these documents:
+ 0. keith park
+ 1. 1929
+ 2. alan shepard
+ 3. jimmy doolittle
+ 4. battle of the coral sea
+ 5. battle of the philippine sea
+ 6. bristol aeroplane company
+ 7. allan haines loughead
+ 8. uss augusta (ca-31)
+ 9. william bligh
+  find the one that is most likely the answer to the question: 1920s NEWS FLASH! Nov. 28, 1929! This man & his chief pilot Bernt Balchen fly to South Pole! Yowza! You'll be an admirable admiral, sir!.Answer with only one number between 0 and 9.
+
+      --- QUESTION 23.0
+For these documents:
+ 0. boot hill
+ 1. doc holliday
+ 2. cremation
+ 3. cemetery
+ 4. gertrude stein
+ 5. claude monet
+ 6. zentralfriedhof
+ 7. catacombs of paris
+ 8. sutton hoo
+ 9. kansas
+  find the one that is most likely the answer to the question: CEMETERIES On May 5, 1878 Alice Chambers was the last person buried in this Dodge City, Kansas cemetery.Answer with only one number between 0 and 9.
+
+      --- QUESTION 24.0
+For these documents:
+ 0. history of cambodia
+ 1. politics of cambodia
+ 2. history of madagascar
+ 3. khmer rouge
+ 4. norway
+ 5. history of france
+ 6. majapahit
+ 7. history of the netherlands
+ 8. leopold ii of belgium
+ 9. madagascar
+  find the one that is most likely the answer to the question: CAMBODIAN HISTORY & CULTURE The Royal Palace grounds feature a statue of King Norodom, who in the late 1800s was compelled to first put his country under the control of this European power; of course, it was sculpted in that country.Answer with only one number between 0 and 9.
+
+      --- QUESTION 25.0
+For these documents:
+ 0. confucius
+ 1. dating creation
+ 2. cicero
+ 3. sun yat-sen
+ 4. history of korea
+ 5. emperor gaozu of han
+ 6. zhang binglin
+ 7. chinese calendar
+ 8. zhang heng
+ 9. laozi
+  find the one that is most likely the answer to the question: HISTORICAL HODGEPODGE In the 400s B.C. this Chinese philosopher went into exile for 12 years.Answer with only one number between 0 and 9.
+
+      --- QUESTION 26.0
+For these documents:
+ 0. bessie coleman
+ 1. pilot (aeronautics)
+ 2. ida cox
+ 3. jackson, mississippi
+ 4. lambert–st. louis international airport
+ 5. michelle obama
+ 6. history of tallahassee, florida
+ 7. ethel waters
+ 8. victoria earle matthews
+ 9. louis armstrong
+  find the one that is most likely the answer to the question: AFRICAN-AMERICAN WOMEN Bessie Coleman, the first black woman licensed as a pilot, landed a street named in her honor at this Chicago airport.Answer with only one number between 0 and 9.
+
+      --- QUESTION 27.0
+For these documents:
+ 0. semitic people
+ 1. history of armenia
+ 2. canaan
+ 3. confucius
+ 4. culture of italy
+ 5. blacksmith
+ 6. lycia
+ 7. raichur district
+ 8. history of the netherlands
+ 9. history of cyprus
+  find the one that is most likely the answer to the question: HISTORICAL HODGEPODGE The Ammonites held sway in this Mideast country in the 1200s B.C. & the capital is named for them.Answer with only one number between 0 and 9.
+
+      --- QUESTION 28.0
+For these documents:
+ 0. ben affleck
+ 1. george clooney
+ 2. john huston
+ 3. jack nicholson
+ 4. russell crowe
+ 5. harrison ford
+ 6. chris rock
+ 7. stanley kubrick
+ 8. phil hartman
+ 9. the last detail
+  find the one that is most likely the answer to the question: HE PLAYED A GUY NAMED JACK RYAN IN... The Sum of All Fears; he also won a screenwriting Oscar for Good Will Hunting.Answer with only one number between 0 and 9.
+
+      --- QUESTION 29.0
+For these documents:
+ 0. regents of the university of california v. bakke
+ 1. william howard taft
+ 2. roe v. wade
+ 3. gideon v. wainwright
+ 4. kenesaw mountain landis
+ 5. miller v. california
+ 6. byron white
+ 7. brown v. board of education
+ 8. common law
+ 9. freedom of religion in the united states
+  find the one that is most likely the answer to the question: POTPOURRI One of the N.Y. Times' headlines on this landmark 1973 Supreme Court decision was Cardinals shocked.Answer with only one number between 0 and 9.
+
+      --- QUESTION 30.0
+For these documents:
+ 0. philip iv of france
+ 1. knights templar
+ 2. louis xiv of france
+ 3. charles iv of france
+ 4. paris
+ 5. history of france
+ 6. henry iv of france
+ 7. louis x of france
+ 8. louis xiii of france
+ 9. charles ii of spain
+  find the one that is most likely the answer to the question: I'M BURNIN' FOR YOU France's Philip IV--known as The Fair--had Jacques De Molay, the last Grand Master of this order, burned in 1314.Answer with only one number between 0 and 9.
+
+      --- QUESTION 31.0
+For these documents:
+ 0. alfred stieglitz
+ 1. museum of modern art
+ 2. national museum of commercial aviation
+ 3. yousuf karsh
+ 4. dan budnik
+ 5. juliette gordon low historic district
+ 6. history of augusta, georgia
+ 7. edward hopper
+ 8. georgia (u.s. state)
+ 9. phillips academy
+  find the one that is most likely the answer to the question: STATE OF THE ART MUSEUM  The Georgia O'Keeffe Museum.Answer with only one number between 0 and 9.
+
+      --- QUESTION 32.0
+For these documents:
+ 0. casablanca
+ 1. history of western sahara
+ 2. canary islands
+ 3. western sahara
+ 4. oran
+ 5. spain
+ 6. melilla
+ 7. agadir
+ 8. languages of the united states
+ 9. spanish language
+  find the one that is most likely the answer to the question: AFRICAN CITIES The name of this largest Moroccan city combines 2 Spanish words.Answer with only one number between 0 and 9.
+
+      --- QUESTION 33.0
+For these documents:
+ 0. jelling stones
+ 1. mth electric trains
+ 2. dietrich jells
+ 3. camp roger
+ 4. red–black tree
+ 5. united artists
+ 6. fibonacci heap
+ 7. radix sort
+ 8. atlanta and west point railroad
+ 9. heap (data structure)
+  find the one that is most likely the answer to the question: NAME THE PARENT COMPANY Jell-O.Answer with only one number between 0 and 9.
+
+      --- QUESTION 34.0
+For these documents:
+ 0. nicole kidman
+ 1. tom wilkinson
+ 2. jessica lange
+ 3. charlize theron
+ 4. jessica chastain
+ 5. warren beatty
+ 6. jennifer hudson
+ 7. steven spielberg
+ 8. kelsey grammer
+ 9. jack layton
+  find the one that is most likely the answer to the question: GOLDEN GLOBE WINNERS 2011: Chicago mayor Tom Kane.Answer with only one number between 0 and 9.
+
+      --- QUESTION 35.0
+For these documents:
+ 0. animal house
+ 1. bluto
+ 2. national lampoon (magazine)
+ 3. british central africa protectorate
+ 4. cheech & chong
+ 5. flounder
+ 6. bozo the clown
+ 7. ford pinto
+ 8. gigging
+ 9. milla jovovich
+  find the one that is most likely the answer to the question: THE RESIDENTS Title residence of Otter, Flounder, Pinto & Bluto in a 1978 comedy.Answer with only one number between 0 and 9.
+
+      --- QUESTION 36.0
+For these documents:
+ 0. mayim bialik
+ 1. howard wolowitz
+ 2. university of california, los angeles
+ 3. blossom (tv series)
+ 4. lewis binford
+ 5. kay redfield jamison
+ 6. hilary putnam
+ 7. california institute of technology
+ 8. danica mckellar
+ 9. julie dash
+  find the one that is most likely the answer to the question: UCLA CELEBRITY ALUMNI Neurobiologist Amy Farrah Fowler on The Big Bang Theory, in real life she has a Ph.D. in neuroscience from UCLA.Answer with only one number between 0 and 9.
+
+      --- QUESTION 37.0
+For these documents:
+ 0. aaron burr
+ 1. vice president of the united states
+ 2. richard mentor johnson
+ 3. joe biden
+ 4. presidency of thomas jefferson
+ 5. john c. breckinridge
+ 6. william henry harrison
+ 7. george mcgovern
+ 8. william o. douglas
+ 9. daniel d. tompkins
+  find the one that is most likely the answer to the question: NOTES FROM THE CAMPAIGN TRAIL In The Deadlocked Election of 1800, James R. Sharp outlines the fall of this dueling vice president.Answer with only one number between 0 and 9.
+
+      --- QUESTION 38.0
+For these documents:
+ 0. vladimir putin
+ 1. mikhail gorbachev
+ 2. boris berezovsky (businessman)
+ 3. politics of russia
+ 4. yuri andropov
+ 5. rajiv gandhi
+ 6. russian armed forces
+ 7. foreign relations of cuba
+ 8. keizō obuchi
+ 9. józef piłsudski
+  find the one that is most likely the answer to the question: TIN MEN He served in the KGB before becoming president & then prime minister of Russia.Answer with only one number between 0 and 9.
+
+      --- QUESTION 39.0
+For these documents:
+ 0. michelle obama
+ 1. gloria steinem
+ 2. martha jones
+ 3. octavia e. butler
+ 4. harriet tubman
+ 5. srinagarindra
+ 6. whitney houston
+ 7. emma goldman
+ 8. dorothy day
+ 9. list of minor chuck characters
+  find the one that is most likely the answer to the question: AFRICAN-AMERICAN WOMEN When asked to describe herself, she says first & foremost, she is Malia & Sasha's mom.Answer with only one number between 0 and 9.
+
+      --- QUESTION 40.0
+For these documents:
+ 0. john keats
+ 1. henry wadsworth longfellow
+ 2. kenneth patchen
+ 3. emily dickinson
+ 4. alexandra feodorovna (charlotte of prussia)
+ 5. anna akhmatova
+ 6. evelyn underhill
+ 7. amir khusrow
+ 8. lord byron
+ 9. ode to the west wind
+  find the one that is most likely the answer to the question: POETS & POETRY She wrote, My candle burns at both ends... but, ah, my foes, and oh, my friends--it gives a lovely light.Answer with only one number between 0 and 9.
+
+      --- QUESTION 41.0
+For these documents:
+ 0. savonlinna
+ 1. tampere
+ 2. finnish orthodox church
+ 3. porvoo
+ 4. mikael agricola
+ 5. magdeburg
+ 6. helsinki
+ 7. espoo
+ 8. turku
+ 9. history of finland
+  find the one that is most likely the answer to the question: CAPITAL CITY CHURCHES  In this Finnish city, the Lutheran Cathedral, also known as Tuomiokirkko.Answer with only one number between 0 and 9.
+
+      --- QUESTION 42.0
+For these documents:
+ 0. axis & allies
+ 1. hasbro
+ 2. battleship (game)
+ 3. vectrex
+ 4. snakes and ladders
+ 5. microvision
+ 6. crayon
+ 7. shawn bradley
+ 8. the electric company
+ 9. the price is right (u.s. game show)
+  find the one that is most likely the answer to the question: NAME THE PARENT COMPANY Milton Bradley games.Answer with only one number between 0 and 9.
+
+      --- QUESTION 43.0
+For these documents:
+ 0. kentucky and virginia resolutions
+ 1. stamp act 1765
+ 2. second continental congress
+ 3. john c. breckinridge
+ 4. patrick henry
+ 5. history of slavery in indiana
+ 6. texas annexation
+ 7. u.s. state
+ 8. slavery in the united states
+ 9. bourbon whiskey
+  find the one that is most likely the answer to the question: OLD YEAR'S RESOLUTIONS The Kentucky & Virginia resolutions were passed to protest these controversial 1798 acts of Congress.Answer with only one number between 0 and 9.
+
+      --- QUESTION 44.0
+For these documents:
+ 0. fred davis (snooker player)
+ 1. enrico castellani
+ 2. black milk
+ 3. juan lópez fontana
+ 4. cliff thorburn
+ 5. allan wells
+ 6. george michael
+ 7. mcdowell's no.1
+ 8. john spencer (snooker player)
+ 9. fiba european champions cup and euroleague history
+  find the one that is most likely the answer to the question: '80s NO.1 HITMAKERS 1983: Beat It.Answer with only one number between 0 and 9.
+
+      --- QUESTION 45.0
+For these documents:
+ 0. anna paquin
+ 1. true blood
+ 2. jessica lange
+ 3. sophia loren
+ 4. ang lee
+ 5. warren beatty
+ 6. geoffrey rush
+ 7. glenn close
+ 8. joan plowright
+ 9. charlize theron
+  find the one that is most likely the answer to the question: GOLDEN GLOBE WINNERS In 2009: Sookie Stackhouse.Answer with only one number between 0 and 9.
+
+      --- QUESTION 46.0
+For these documents:
+ 0. henry kissinger
+ 1. richard nixon
+ 2. william b. saxbe
+ 3. strom thurmond
+ 4. edward brooke
+ 5. history of the united states (1964–80)
+ 6. united states presidential line of succession
+ 7. john connally
+ 8. stanley baldwin
+ 9. willy brandt
+  find the one that is most likely the answer to the question: HISTORICAL HODGEPODGE This member of the Nixon & Ford cabinets was born in Furth, Germany in 1923.Answer with only one number between 0 and 9.
+
+      --- QUESTION 47.0
+For these documents:
+ 0. john knox
+ 1. church of scotland
+ 2. perth, scotland
+ 3. arbroath
+ 4. history of scotland
+ 5. scottish episcopal church
+ 6. edinburgh
+ 7. glasgow cathedral
+ 8. queen's hall, edinburgh
+ 9. stobo kirk
+  find the one that is most likely the answer to the question: CAPITAL CITY CHURCHES  The High Kirk of St. Giles, where John Knox was minister.Answer with only one number between 0 and 9.
+
+      --- QUESTION 48.0
+For these documents:
+ 0. james dean
+ 1. natalie wood
+ 2. harold pinter
+ 3. charlton heston
+ 4. humphrey bogart
+ 5. errol flynn
+ 6. richard burton
+ 7. kareem abdul-jabbar
+ 8. ken russell
+ 9. henry fonda
+  find the one that is most likely the answer to the question: UCLA CELEBRITY ALUMNI For the brief time he attended, he was a rebel with a cause, even landing a lead role in a 1950 stage production.Answer with only one number between 0 and 9.
+
+      --- QUESTION 49.0
+For these documents:
+ 0. hasbro
+ 1. cabbage patch kids
+ 2. arthur treacher's
+ 3. powel crosley, jr.
+ 4. hiroshi yamauchi
+ 5. pixar
+ 6. dollar general
+ 7. variety store
+ 8. learning express toys
+ 9. revell
+  find the one that is most likely the answer to the question: NAME THE PARENT COMPANY Fisher-Price toys.Answer with only one number between 0 and 9.
+
+      --- QUESTION 50.0
+For these documents:
+ 0. american national exhibition
+ 1. cuban missile crisis
+ 2. jacqueline kennedy onassis
+ 3. lee harvey oswald
+ 4. richard nixon
+ 5. dolores ibárruri
+ 6. history of the people's republic of china (1949–76)
+ 7. john mellencamp
+ 8. konrad adenauer
+ 9. mel gibson
+  find the one that is most likely the answer to the question: HISTORICAL QUOTES In a 1959 American kitchen exhibit in Moscow, he told Khrushchev, In America, we like to make life easier for women.Answer with only one number between 0 and 9.
+
+      --- QUESTION 51.0
+For these documents:
+ 0. henry wadsworth longfellow
+ 1. baxter black
+ 2. rapping
+ 3. acrostic
+ 4. john masefield
+ 5. james russell lowell
+ 6. fanny imlay
+ 7. paul revere
+ 8. irish poetry
+ 9. the raven
+  find the one that is most likely the answer to the question: POETS & POETRY One of his Tales of a Wayside Inn begins, Listen, my children, and you shall hear of the midnight ride of Paul Revere.Answer with only one number between 0 and 9.
+
+      --- QUESTION 52.0
+For these documents:
+ 0. game change
+ 1. ed o'callaghan
+ 2. gloria steinem
+ 3. hannibal (film)
+ 4. vice president of the united states
+ 5. ed koch
+ 6. michael moore
+ 7. mike huckabee
+ 8. joe lieberman
+ 9. being erica
+  find the one that is most likely the answer to the question: NOTES FROM THE CAMPAIGN TRAIL This bestseller about problems on the McCain-Palin ticket became an HBO movie with Julianne Moore.Answer with only one number between 0 and 9.
+
+      --- QUESTION 53.0
+For these documents:
+ 0. cold feet
+ 1. the sarah jane adventures
+ 2. law & order
+ 3. fair city
+ 4. the west wing
+ 5. bozo the clown
+ 6. list of ncis characters
+ 7. gunsmoke
+ 8. doctors (soap opera)
+ 9. soap opera
+  find the one that is most likely the answer to the question: THAT 20-AUGHTS SHOW A 2-part episode of JAG introduced this Mark Harmon drama.Answer with only one number between 0 and 9.
+
+      --- QUESTION 54.0
+For these documents:
+ 0. urbanization in africa
+ 1. zanzibar
+ 2. portuguese mozambique
+ 3. cape town
+ 4. history of africa
+ 5. johannesburg
+ 6. dakar
+ 7. canary islands
+ 8. sub-saharan africa
+ 9. kinshasa
+  find the one that is most likely the answer to the question: AFRICAN CITIES This port is the southernmost of South Africa's 3 capitals.Answer with only one number between 0 and 9.
+
+      --- QUESTION 55.0
+For these documents:
+ 0. john keats
+ 1. ode
+ 2. edmund spenser
+ 3. ozymandias
+ 4. wilfred owen
+ 5. edmund blunden
+ 6. english poetry
+ 7. romanticism
+ 8. orion (mythology)
+ 9. john milton
+  find the one that is most likely the answer to the question: THE QUOTABLE KEATS Keats was quoting this Edmund Spenser poem when he told Shelley to 'load every rift' of your subject with ore.Answer with only one number between 0 and 9.
+
+      --- QUESTION 56.0
+For these documents:
+ 0. john keats
+ 1. la belle dame sans merci
+ 2. romanticism
+ 3. hyperion (poem)
+ 4. adonis
+ 5. harold stewart
+ 6. blank verse
+ 7. orion (mythology)
+ 8. edmund spenser
+ 9. lord byron
+  find the one that is most likely the answer to the question: THE QUOTABLE KEATS In an 1819 letter Keats wrote that this lord & poet cuts a figure, but he is not figurative.Answer with only one number between 0 and 9.
+
+      --- QUESTION 57.0
+For these documents:
+ 0. ouzo
+ 1. list of coffee beverages
+ 2. liqueur
+ 3. english cuisine
+ 4. cider
+ 5. fennel
+ 6. midas
+ 7. alum
+ 8. pomegranate
+ 9. sicilian cuisine
+  find the one that is most likely the answer to the question: GREEK FOOD & DRINK This clear Greek liqueur is quite potent, so it's usually mixed with water, which turns it white & cloudy.Answer with only one number between 0 and 9.
+
+      --- QUESTION 58.0
+For these documents:
+ 0. emancipation proclamation
+ 1. slavery in the united states
+ 2. history of lebanon
+ 3. equal rights amendment
+ 4. quit india movement
+ 5. kentucky and virginia resolutions
+ 6. william o. douglas
+ 7. thaddeus stevens
+ 8. history of cuba
+ 9. dennis kucinich
+  find the one that is most likely the answer to the question: OLD YEAR'S RESOLUTIONS Feb. 1, National Freedom Day, is the date in 1865 when a resolution sent the states an amendment ending this.Answer with only one number between 0 and 9.
+
+      --- QUESTION 59.0
+For these documents:
+ 0. governor general of canada
+ 1. charles tupper
+ 2. parliament of canada
+ 3. house of commons of canada
+ 4. university of calgary
+ 5. lincoln alexander
+ 6. prince philip, duke of edinburgh
+ 7. head of state
+ 8. commander-in-chief
+ 9. university of saskatchewan
+  find the one that is most likely the answer to the question: RANKS & TITLES This person is the queen's representative in Canada; currently the office is held by David Johnston.Answer with only one number between 0 and 9.
+
+      --- QUESTION 60.0
+For these documents:
+ 0. ringo starr
+ 1. fifth beatle
+ 2. george martin
+ 3. the beatles (album)
+ 4. jeff lynne
+ 5. beatles for sale
+ 6. rubber soul
+ 7. twist and shout
+ 8. help! (album)
+ 9. 1 (the beatles album)
+  find the one that is most likely the answer to the question: TIN MEN He earned the fifth Beatle nickname by producing all of the Beatles' albums.Answer with only one number between 0 and 9.
+
+      --- QUESTION 61.0
+For these documents:
+ 0. bret harte
+ 1. joaquin miller
+ 2. george carlin
+ 3. dave meltzer
+ 4. ken howard
+ 5. california gold rush
+ 6. hunter s. thompson
+ 7. walter winchell
+ 8. william randolph hearst
+ 9. tom wolfe
+  find the one that is most likely the answer to the question: NEWSPAPERS Early in their careers, Mark Twain & Bret Harte wrote pieces for this California city's Chronicle.Answer with only one number between 0 and 9.
+
+      --- QUESTION 62.0
+For these documents:
+ 0. kangaroo
+ 1. koala
+ 2. fauna of australia
+ 3. kakapo
+ 4. velociraptor
+ 5. agathis australis
+ 6. fauna of new guinea
+ 7. eucalyptus regnans
+ 8. eucalyptus
+ 9. long jump
+  find the one that is most likely the answer to the question: POTPOURRI Large specimens of this marsupial can leap over barriers 6 feet high.Answer with only one number between 0 and 9.
+
+      --- QUESTION 63.0
+For these documents:
+ 0. feta
+ 1. norwegian cuisine
+ 2. breakfast
+ 3. english cuisine
+ 4. australian cuisine
+ 5. sausage
+ 6. mexican cuisine
+ 7. quark (dairy product)
+ 8. chinese cuisine
+ 9. serbian cuisine
+  find the one that is most likely the answer to the question: GREEK FOOD & DRINK Because it's cured & stored in brine, this crumbly white cheese made from sheep's milk is often referred to as pickled cheese.Answer with only one number between 0 and 9.
+
+      --- QUESTION 64.0
+For these documents:
+ 0. jack dempsey
+ 1. max schmeling
+ 2. byrds (album)
+ 3. rock-paper-scissors
+ 4. contra dance
+ 5. new jersey route 37
+ 6. charleston (dance)
+ 7. ferdinand i of romania
+ 8. josé raúl capablanca
+ 9. eugene o'neill
+  find the one that is most likely the answer to the question: 1920s NEWS FLASH! 1927! Gene Tunney takes a long count in the squared circle but rises to defeat this Manassa Mauler! Howzabout that!.Answer with only one number between 0 and 9.
+
+      --- QUESTION 65.0
+For these documents:
+ 0. alessandra mussolini
+ 1. duce
+ 2. history of albania
+ 3. cult of personality
+ 4. fascism in europe
+ 5. vilfredo pareto
+ 6. italian empire
+ 7. history of italy
+ 8. neo-fascism
+ 9. italian constitutional referendum, 1946
+  find the one that is most likely the answer to the question: RANKS & TITLES Italian for leader, it was especially applied to Benito Mussolini.Answer with only one number between 0 and 9.
+
+      --- QUESTION 66.0
+For these documents:
+ 0. lansing, michigan
+ 1. akio takamori
+ 2. museum
+ 3. ian hornak
+ 4. walker art center
+ 5. iowa state university
+ 6. thomas hart benton (painter)
+ 7. national gallery of art
+ 8. john rogers cox
+ 9. utah museum of fine arts
+  find the one that is most likely the answer to the question: STATE OF THE ART MUSEUM  The Kalamazoo Institute of Arts.Answer with only one number between 0 and 9.
+
+      --- QUESTION 67.0
+For these documents:
+ 0. roanoke, virginia
+ 1. phoenix, arizona
+ 2. file:mobile public library 2008.jpg|thumb|the ben may main library on government street.
+ 3. terre haute, indiana
+ 4. xochicalco
+ 5. kathmandu
+ 6. mexico city
+ 7. south dakota state university
+ 8. boise, idaho
+ 9. national gallery of art
+  find the one that is most likely the answer to the question: STATE OF THE ART MUSEUM  The Sun Valley Center for the Arts.Answer with only one number between 0 and 9.
+
+      --- QUESTION 68.0
+For these documents:
+ 0. joe tinker
+ 1. hughie jennings
+ 2. honus wagner
+ 3. derek jeter
+ 4. charlie gehringer
+ 5. moe berg
+ 6. humphrey bogart
+ 7. rogers hornsby
+ 8. triple play
+ 9. ozzie smith
+  find the one that is most likely the answer to the question: TIN MEN You can't mention this shortstop without mentioning his double-play associates Evers & Chance.Answer with only one number between 0 and 9.
+
+      --- QUESTION 69.0
+For these documents:
+ 0. horace greeley
+ 1. william lyon mackenzie
+ 2. william henry harrison
+ 3. schuyler colfax
+ 4. anti-masonic party
+ 5. richard mentor johnson
+ 6. thomas a. hendricks
+ 7. victoria woodhull
+ 8. communist party of canada
+ 9. the day (new london)
+  find the one that is most likely the answer to the question: NEWSPAPERS In 1840 Horace Greeley began publishing The Log Cabin, a weekly campaign paper in support of this Whig candidate.Answer with only one number between 0 and 9.
+
+      --- QUESTION 70.0
+For these documents:
+ 0. joan of arc
+ 1. medieval inquisition
+ 2. roman catholic diocese of beauvais
+ 3. tucker carlson
+ 4. rosa parks
+ 5. napoleon iii
+ 6. whitney houston
+ 7. michael bloomberg
+ 8. loretta lynn
+ 9. sinéad o'connor
+  find the one that is most likely the answer to the question: I'M BURNIN' FOR YOU Pierre Cauchon, Bishop of Beauvais, presided over the trial of this woman who went up in smoke May 30, 1431.Answer with only one number between 0 and 9.
+
+      --- QUESTION 71.0
+For these documents:
+ 0. dome of the rock
+ 1. madison, wisconsin
+ 2. yosemite valley
+ 3. saint isaac's cathedral
+ 4. des moines, iowa
+ 5. lake superior
+ 6. al-aqsa mosque
+ 7. temple mount
+ 8. frank zeidler
+ 9. st paul's cathedral
+  find the one that is most likely the answer to the question: COMPLETE DOM-INATION This Wisconsin city claims to have built the USA's only granite dome.Answer with only one number between 0 and 9.
+
+      --- QUESTION 72.0
+For these documents:
+ 0. the atlanta journal-constitution
+ 1. cherokee language
+ 2. the five orange pips
+ 3. daily worker
+ 4. rome news-tribune
+ 5. naye prese
+ 6. interstate 285
+ 7. doc holliday
+ 8. thoroughbred racing in australia
+ 9. lester maddox
+  find the one that is most likely the answer to the question: NEWSPAPERS This Georgia paper is known as the AJC for short.Answer with only one number between 0 and 9.
+
+      --- QUESTION 73.0
+For these documents:
+ 0. monrovia
+ 1. glenview mansion
+ 2. architecture of india
+ 3. armed forces of liberia
+ 4. equatorial guinea
+ 5. wellington
+ 6. rhode island
+ 7. liberia
+ 8. jug tavern
+ 9. cleveland
+  find the one that is most likely the answer to the question: AFRICAN CITIES Wooden 2-story verandas in this Liberian capital are an architectural link to the U.S. south.Answer with only one number between 0 and 9.
+
+      --- QUESTION 74.0
+For these documents:
+ 0. mercedes-benz superdome
+ 1. louis armstrong new orleans international airport
+ 2. allen toussaint
+ 3. saenger theatre (new orleans, louisiana)
+ 4. sadler's wells theatre
+ 5. wesley barrow stadium
+ 6. khtml
+ 7. snug harbor (jazz club)
+ 8. preservation hall jazz band
+ 9. dillard university
+  find the one that is most likely the answer to the question: COMPLETE DOM-INATION This New Orleans venue reopened Sept. 25, 2006.Answer with only one number between 0 and 9.
+
+      --- QUESTION 75.0
+For these documents:
+ 0. alec baldwin
+ 1. red hot chili peppers
+ 2. candy barr
+ 3. harrison ford
+ 4. list of eastenders characters (2010)
+ 5. late night with conan o'brien
+ 6. chris rock
+ 7. dire straits
+ 8. hey hey it's saturday
+ 9. houston astros
+  find the one that is most likely the answer to the question: HE PLAYED A GUY NAMED JACK RYAN IN... The Hunt for Red October; he went more comedic as Jack Donaghy on 30 Rock.Answer with only one number between 0 and 9.
+
+      --- QUESTION 76.0
+For these documents:
+ 0. rosa parks
+ 1. lesbian
+ 2. elizabeth barrett browning
+ 3. louise erdrich
+ 4. julie dash
+ 5. katherine mansfield
+ 6. nellie y. mckay
+ 7. university of virginia
+ 8. d. h. lawrence
+ 9. queen latifah
+  find the one that is most likely the answer to the question: AFRICAN-AMERICAN WOMEN Rita Dove titled a collection of poems On the Bus with this woman.Answer with only one number between 0 and 9.
+
+      --- QUESTION 77.0
+For these documents:
+ 0. harrison ford
+ 1. adam west
+ 2. bill mumy
+ 3. phil hartman
+ 4. phil lamarr
+ 5. puddle of mudd
+ 6. robert downey, jr.
+ 7. elijah wood
+ 8. washington redskins
+ 9. new york jets
+  find the one that is most likely the answer to the question: HE PLAYED A GUY NAMED JACK RYAN IN... Patriot Games; he's had other iconic roles, in space & underground.Answer with only one number between 0 and 9.
+
+      --- QUESTION 78.0
+For these documents:
+ 0. dome of the rock
+ 1. cologne cathedral
+ 2. chichen itza
+ 3. circus maximus
+ 4. caracol
+ 5. anuradhapura
+ 6. al-aqsa mosque
+ 7. topkapı palace
+ 8. dos pilas
+ 9. selinunte
+  find the one that is most likely the answer to the question: COMPLETE DOM-INATION This sacred structure dates from the late 600's A.D..Answer with only one number between 0 and 9.
+
+      --- QUESTION 79.0
+For these documents:
+ 0. the land of make believe
+ 1. stevie nicks
+ 2. george michael
+ 3. prince (musician)
+ 4. celcom
+ 5. enrico castellani
+ 6. nico
+ 7. mazda rx-7
+ 8. the supremes
+ 9. spacecraft
+  find the one that is most likely the answer to the question: '80s NO.1 HITMAKERS 1988: Man In The Mirror.Answer with only one number between 0 and 9.
+
+      --- QUESTION 80.0
+For these documents:
+ 0. history of buda castle
+ 1. olomouc
+ 2. votive church, vienna
+ 3. hungary
+ 4. bratislava
+ 5. munich
+ 6. frederick v, elector palatine
+ 7. saint matthias
+ 8. lviv
+ 9. franz liszt
+  find the one that is most likely the answer to the question: CAPITAL CITY CHURCHES  Matthias Church, or Matyas Templom, where Franz Joseph was crowned in 1867.Answer with only one number between 0 and 9.
+
+      --- QUESTION 81.0
+For these documents:
+ 0. kareem abdul-jabbar
+ 1. university of california, los angeles
+ 2. jackie robinson
+ 3. animal crackers (film)
+ 4. rob reiner
+ 5. angela davis
+ 6. heather graham
+ 7. james dean
+ 8. carroll o'connor
+ 9. harry shearer
+  find the one that is most likely the answer to the question: UCLA CELEBRITY ALUMNI Attending UCLA in the '60s, he was no Meathead, he just played one later on television.Answer with only one number between 0 and 9.
+
+      --- QUESTION 82.0
+For these documents:
+ 0. hogan's heroes
+ 1. john carter (er)
+ 2. jerry brown
+ 3. spin city
+ 4. georgia (u.s. state)
+ 5. scottsboro boys
+ 6. whose line is it anyway?
+ 7. bad girls club
+ 8. brookside
+ 9. ohio state university
+  find the one that is most likely the answer to the question: THE RESIDENTS Kinch, Carter & LeBeau were all residents of Stalag 13 on this TV show.Answer with only one number between 0 and 9.
+
+      --- QUESTION 83.0
+For these documents:
+ 0. adobe flash
+ 1. super friends
+ 2. ti msp430
+ 3. flash memory
+ 4. lighthouse
+ 5. menopause
+ 6. māori culture
+ 7. teen titans
+ 8. compactflash
+ 9. pedestrian crossing
+  find the one that is most likely the answer to the question: 1920s NEWS FLASH! News flash! This less-than-yappy pappy is sixth veep to be nation's top dog after chief takes deep sleep!.Answer with only one number between 0 and 9.
+
+      --- QUESTION 84.0
+For these documents:
+ 0. 24 (tv series)
+ 1. jon voight
+ 2. jessica lange
+ 3. george clooney
+ 4. ben affleck
+ 5. sophia loren
+ 6. natalie portman
+ 7. geoffrey rush
+ 8. martin sheen
+ 9. jim broadbent
+  find the one that is most likely the answer to the question: GOLDEN GLOBE WINNERS In 2001: The president of the United States on television.Answer with only one number between 0 and 9.
+
+      --- QUESTION 85.0
+For these documents:
+ 0. george michael
+ 1. prince (musician)
+ 2. carole king
+ 3. i love the '80s strikes back
+ 4. cnblue
+ 5. the who
+ 6. wolfman jack
+ 7. stevie nicks
+ 8. helix (band)
+ 9. jean burns
+  find the one that is most likely the answer to the question: '80s NO.1 HITMAKERS 1989: Miss You Much.Answer with only one number between 0 and 9.
+
+      --- QUESTION 86.0
+For these documents:
+ 0. history of armenia
+ 1. trabzon
+ 2. ottoman empire
+ 3. van, turkey
+ 4. aftermath of world war i
+ 5. mehmed vi
+ 6. history of modern greece
+ 7. christophor araratov
+ 8. far eastern republic
+ 9. macedonia (region)
+  find the one that is most likely the answer to the question: 1920s NEWS FLASH! 1922: It's the end of an empire! This empire, in fact! After 600 years, it's goodbye, this, hello, Turkish Republic!.Answer with only one number between 0 and 9.
+
+      --- QUESTION 87.0
+For these documents:
+ 0. crest (toothpaste)
+ 1. toothpaste
+ 2. procter & gamble
+ 3. rangers f.c.
+ 4. heraldry
+ 5. great north eastern railway
+ 6. air india (football club)
+ 7. jane wyman
+ 8. kagu
+ 9. chelsea f.c.
+  find the one that is most likely the answer to the question: NAME THE PARENT COMPANY Crest toothpaste.Answer with only one number between 0 and 9.
+
+      --- QUESTION 88.0
+For these documents:
+ 0. otto von bismarck
+ 1. wilhelm ii, german emperor
+ 2. imperial german navy
+ 3. alfred rosenberg
+ 4. munich massacre
+ 5. søren kierkegaard
+ 6. hermann göring
+ 7. konrad adenauer
+ 8. existentialism
+ 9. immanuel kant
+  find the one that is most likely the answer to the question: HISTORICAL QUOTES In 1888 this Chancellor told the Reichstag, we Germans fear God, but nothing else in the world.Answer with only one number between 0 and 9.
+
+      --- QUESTION 89.0
+For these documents:
+ 0. bliss carman
+ 1. luis cernuda
+ 2. horace
+ 3. george crabbe
+ 4. irish poetry
+ 5. friedrich hölderlin
+ 6. simonides of ceos
+ 7. elizabeth barrett browning
+ 8. harold stewart
+ 9. homer
+  find the one that is most likely the answer to the question: POETS & POETRY In 1787 he signed his first published poem Axiologus; axio- is from the Greek for worth.Answer with only one number between 0 and 9.
+
+      --- QUESTION 90.0
+For these documents:
+ 0. history of cambodia
+ 1. politics of cambodia
+ 2. khmer language
+ 3. khmer rouge
+ 4. siem reap
+ 5. economy of cambodia
+ 6. ikat
+ 7. norodom buppha devi
+ 8. mekong
+ 9. paan
+  find the one that is most likely the answer to the question: CAMBODIAN HISTORY & CULTURE Not to be confused with karma, krama is a popular accessory sold in cambodia; the word means scarf in this national language of Cambodia.Answer with only one number between 0 and 9.
+
+      --- QUESTION 91.0
+For these documents:
+ 0. khmer rouge
+ 1. music of barbados
+ 2. khmer language
+ 3. history of cambodia
+ 4. mekong
+ 5. cycle rickshaw
+ 6. siem reap
+ 7. olympic stadium (phnom penh)
+ 8. coppersmith barbet
+ 9. economy of cambodia
+  find the one that is most likely the answer to the question: CAMBODIAN HISTORY & CULTURE Phnom Penh's notorious gridlock is circumvented by the nimble tuk-tuk, a motorized taxi that's also known as an auto this, a similar Asian conveyance..Answer with only one number between 0 and 9.
+
+      --- QUESTION 92.0
+For these documents:
+ 0. prince (musician)
+ 1. george michael
+ 2. stevie nicks
+ 3. carole king
+ 4. the moody blues
+ 5. zz top
+ 6. glam metal
+ 7. the supremes
+ 8. orchestral manoeuvres in the dark
+ 9. adam ant
+  find the one that is most likely the answer to the question: '80s NO.1 HITMAKERS 1980: Rock With You.Answer with only one number between 0 and 9.
+
+      --- QUESTION 93.0
+For these documents:
+ 0. hunter s. thompson
+ 1. george mcgovern
+ 2. history of the united states (1945–64)
+ 3. michael dukakis
+ 4. thomas e. dewey
+ 5. wendell willkie
+ 6. ralph nader
+ 7. william henry harrison
+ 8. the west wing
+ 9. al smith
+  find the one that is most likely the answer to the question: NOTES FROM THE CAMPAIGN TRAIL The Pulitzer-winning The Making of the President 1960 covered this man's successful presidential campaign.Answer with only one number between 0 and 9.
+
+      --- QUESTION 94.0
+For these documents:
+ 0. b'nai b'rith
+ 1. christianity and judaism
+ 2. jacob
+ 3. cave of the patriarchs
+ 4. lilith
+ 5. isaac asimov
+ 6. shekhinah
+ 7. joseph b. soloveitchik
+ 8. history of the jews in colonial america
+ 9. jews as the chosen people
+  find the one that is most likely the answer to the question: SERVICE ORGANIZATIONS In 1843 Isaac Dittenhoefer became the first pres. of this Jewish club whose name means children of the covenant.Answer with only one number between 0 and 9.
+
+      --- QUESTION 95.0
+For these documents:
+ 0. don knotts
+ 1. three's company
+ 2. john ritter
+ 3. tim conway
+ 4. san pedro, laguna
+ 5. 1994 northridge earthquake
+ 6. social class in ecuador
+ 7. county mayo
+ 8. patterson park (neighborhood), baltimore
+ 9. chinatown, manhattan
+  find the one that is most likely the answer to the question: THE RESIDENTS Don Knotts took over from Norman Fell as the resident landlord on this sitcom.Answer with only one number between 0 and 9.
+
+      --- QUESTION 96.0
+For these documents:
+ 0. golan heights
+ 1. camp david accords
+ 2. israeli–palestinian conflict
+ 3. annexation
+ 4. 1949 armistice agreements
+ 5. history of israel
+ 6. history of lebanon
+ 7. foreign relations of israel
+ 8. united nations partition plan for palestine
+ 9. west bank
+  find the one that is most likely the answer to the question: OLD YEAR'S RESOLUTIONS U.N. Res. 242 supports secure and recognized boundaries for Israel & neighbors following this June 1967 war.Answer with only one number between 0 and 9.
+
+      --- QUESTION 97.0
+For these documents:
+ 0. heather locklear
+ 1. legally blonde (musical)
+ 2. melrose place
+ 3. hairspray (musical)
+ 4. grant show
+ 5. heather graham
+ 6. maxwell caulfield
+ 7. julie dash
+ 8. university of california, los angeles
+ 9. lisa rinna
+  find the one that is most likely the answer to the question: UCLA CELEBRITY ALUMNI This blonde beauty who reprised her role as Amanda on the new Melrose Place was a psychology major.Answer with only one number between 0 and 9.
+
+      --- QUESTION 98.0
+For these documents:
+ 0. souvlaki
+ 1. awadhi cuisine
+ 2. brazilian cuisine
+ 3. breakfast
+ 4. serbian cuisine
+ 5. sausage
+ 6. korean cuisine
+ 7. english cuisine
+ 8. sicilian cuisine
+ 9. dim sum
+  find the one that is most likely the answer to the question: GREEK FOOD & DRINK The name of this dish of marinated lamb, skewered & grilled, comes from the Greek for skewer & also starts with s.Answer with only one number between 0 and 9.
+
+      --- QUESTION 99.0
+For these documents:
+ 0. annie (musical)
+ 1. ubm plc
+ 2. bank of china (hong kong)
+ 3. galen weston
+ 4. taiwanization
+ 5. postage stamps and postal history of the united states
+ 6. houston chronicle
+ 7. the washington post
+ 8. us foods
+ 9. post city magazines
+  find the one that is most likely the answer to the question: NAME THE PARENT COMPANY Post-it notes.Answer with only one number between 0 and 9.
+
+      --- QUESTION 100.0
+For these documents:
+ 0. robert downey, jr.
+ 1. hans zimmer
+ 2. sherlock holmes
+ 3. i. a. l. diamond
+ 4. basil rathbone
+ 5. irene adler
+ 6. celeste holm
+ 7. feluda
+ 8. deborah kerr
+ 9. jeremy brett
+  find the one that is most likely the answer to the question: GOLDEN GLOBE WINNERS In 2010: As Sherlock Holmes on film.Answer with only one number between 0 and 9.

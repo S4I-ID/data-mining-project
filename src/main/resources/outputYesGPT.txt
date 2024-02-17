@@ -1,0 +1,1519 @@
+      --- QUESTION 1
+The dominant paper in our nation's capital, it's among the top 10 U.S. papers in circulation
+Found document: 0. the new york sun
+Found document: 1. william randolph hearst
+Found document: 2. the spectator
+Found document: 3. the wall street journal
+Found document: 4. media of the united states
+Found document: 5. media of china
+Found document: 6. houston chronicle
+Found document: 7. los angeles times
+Found document: 8. new york post
+Found document: 9. history of british newspapers
+    Correct answer  : the washington post
+    INCORRECT answer: new york post
+
+      --- QUESTION 2
+The practice of pre-authorizing presidential use of force dates to a 1955 resolution re: this island near mainland China
+Found document: 0. taiwan
+Found document: 1. political status of taiwan
+Found document: 2. history of the republic of china
+Found document: 3. united nations general assembly resolution 505
+Found document: 4. one-china policy
+Found document: 5. china–united states relations
+Found document: 6. history of cyprus
+Found document: 7. history of oceania
+Found document: 8. puerto rico
+Found document: 9. interstate 496
+    Correct answer  : taiwan
+    Returned answer : taiwan
+
+      --- QUESTION 3
+Daniel Hertzberg & James B. Stewart of this paper shared a 1988 Pulitzer for their stories about insider trading
+Found document: 0. the wall street journal
+Found document: 1. the baltimore sun
+Found document: 2. the washington post
+Found document: 3. the atlanta journal-constitution
+Found document: 4. william randolph hearst
+Found document: 5. los angeles times
+Found document: 6. william jardine (merchant)
+Found document: 7. newseum
+Found document: 8. yellow journalism
+Found document: 9. james stewart
+    Correct answer  : the wall street journal
+    Returned answer : the wall street journal
+
+      --- QUESTION 4
+Song that says, "you make me smile with my heart; your looks are laughable, unphotographable"
+Found document: 0. baul
+Found document: 1. starlight express
+Found document: 2. jerome kern
+Found document: 3. john mellencamp
+Found document: 4. irving berlin
+Found document: 5. the hives
+Found document: 6. gypsy (musical)
+Found document: 7. neneh cherry
+Found document: 8. keyshia cole
+Found document: 9. stevie wonder
+    Correct answer  : my funny valentine
+    INCORRECT answer: irving berlin
+
+      --- QUESTION 5
+In 2011 bell ringers for this charity started accepting digital donations to its red kettle
+Found document: 0. the salvation army
+Found document: 1. change ringing
+Found document: 2. goodwill industries
+Found document: 3. givewell
+Found document: 4. pride london
+Found document: 5. nortel
+Found document: 6. capital (radio network)
+Found document: 7. meat loaf
+Found document: 8. canadian broadcasting corporation
+Found document: 9. education reform
+    Correct answer  : the salvation army
+    Returned answer : the salvation army
+
+      --- QUESTION 6
+The Naples Museum of Art
+Found document: 0. jen stark
+Found document: 1. nativity scene
+Found document: 2. metropolitan museum of art
+Found document: 3. ural tansykbayev
+Found document: 4. utah museum of fine arts
+Found document: 5. roman de salvo
+Found document: 6. hermitage museum
+Found document: 7. art museum
+Found document: 8. walker art center
+Found document: 9. museum of contemporary art, chicago
+    Correct answer  : florida
+    INCORRECT answer: art museum
+
+      --- QUESTION 7
+This Italian painter depicted the "Adoration of the Golden Calf"
+Found document: 0. tintoretto
+Found document: 1. diego velázquez
+Found document: 2. leonardo da vinci
+Found document: 3. nicola cianfanelli
+Found document: 4. antonio da correggio
+Found document: 5. giovanni battista gaulli
+Found document: 6. caravaggio
+Found document: 7. giorgio vasari
+Found document: 8. hieronymus bosch
+Found document: 9. themes in italian renaissance painting
+    Correct answer  : tintoretto
+    INCORRECT answer: caravaggio
+
+      --- QUESTION 8
+This woman who won consecutive heptathlons at the Olympics went to UCLA on a basketball scholarship
+Found document: 0. jackie joyner-kersee
+Found document: 1. university of california, los angeles
+Found document: 2. kareem abdul-jabbar
+Found document: 3. kevin love
+Found document: 4. michigan wolverines
+Found document: 5. dean smith
+Found document: 6. reggie miller
+Found document: 7. wilma rudolph
+Found document: 8. nc state wolfpack men's basketball
+Found document: 9. bob knight
+    Correct answer  : jackie joyner-kersee
+    Returned answer : jackie joyner-kersee
+
+      --- QUESTION 9
+Originally this club's emblem was a wagon wheel; now it's a gearwheel with 24 cogs & 6 spokes
+Found document: 0. hammer and sickle
+Found document: 1. honda accord
+Found document: 2. spoke
+Found document: 3. chrysler new yorker
+Found document: 4. chevrolet celebrity
+Found document: 5. amc matador
+Found document: 6. penny-farthing
+Found document: 7. toyota auris
+Found document: 8. chevrolet impala
+Found document: 9. wheel
+    Correct answer  : rotary international
+    INCORRECT answer: wheel
+
+      --- QUESTION 10
+Several bridges, including El Tahrir, cross the Nile in this capital
+Found document: 0. cairo
+Found document: 1. khartoum
+Found document: 2. nile
+Found document: 3. pan-american highway (north america)
+Found document: 4. murcia
+Found document: 5. omdurman
+Found document: 6. tunis
+Found document: 7. tripoli, lebanon
+Found document: 8. canary islands
+Found document: 9. lleida
+    Correct answer  : cairo
+    Returned answer : cairo
+
+      --- QUESTION 11
+After the fall of France in 1940, this general told his country, "France has lost a battle. But France has not lost the war"
+Found document: 0. philippe pétain
+Found document: 1. charles de gaulle
+Found document: 2. erwin rommel
+Found document: 3. history of france
+Found document: 4. polish contribution to world war ii
+Found document: 5. free french forces
+Found document: 6. anglo-french supreme war council
+Found document: 7. napoleon iii
+Found document: 8. battle of britain
+Found document: 9. munich agreement
+    Correct answer  : charles de gaulle
+    Returned answer : charles de gaulle
+
+      --- QUESTION 12
+The Taft Museum of Art
+Found document: 0. museum of science and industry (chicago)
+Found document: 1. anders zorn
+Found document: 2. metropolitan museum of art
+Found document: 3. ural tansykbayev
+Found document: 4. utah museum of fine arts
+Found document: 5. roman de salvo
+Found document: 6. hermitage museum
+Found document: 7. art museum
+Found document: 8. sculpture of the united states
+Found document: 9. walker art center
+    Correct answer  : ohio
+    INCORRECT answer: art museum
+
+      --- QUESTION 13
+The mast from the USS Maine is part of the memorial to the ship & crew at this national cemetery
+Found document: 0. uss arizona memorial
+Found document: 1. robert ballard
+Found document: 2. roberto cofresí
+Found document: 3. thomas w. lawson (ship)
+Found document: 4. friend to all nations
+Found document: 5. burma railway
+Found document: 6. battle of trafalgar
+Found document: 7. viking runestones
+Found document: 8. css virginia
+Found document: 9. richard henry dana, jr.
+    Correct answer  : arlington national cemetery
+    INCORRECT answer: uss arizona memorial
+    Correct answer  : arlington cemetery
+    INCORRECT answer: uss arizona memorial
+
+      --- QUESTION 14
+In 2009: Joker on film
+Found document: 0. heath ledger
+Found document: 1. jack nicholson
+Found document: 2. jessica lange
+Found document: 3. sophia loren
+Found document: 4. ang lee
+Found document: 5. warren beatty
+Found document: 6. geoffrey rush
+Found document: 7. nicole kidman
+Found document: 8. glenn close
+Found document: 9. charlize theron
+    Correct answer  : heath ledger
+    Returned answer : heath ledger
+
+      --- QUESTION 15
+It was the peninsula fought over in the peninsular war of 1808 to 1814
+Found document: 0. napoleonic wars
+Found document: 1. image:castillaleon 1360.png|thumb|iberian polities circa 1360.
+Found document: 2. ferdinand vii of spain
+Found document: 3. war of the sixth coalition
+Found document: 4. fitzroy somerset, 1st baron raglan
+Found document: 5. battle of roliça
+Found document: 6. battle of lundy's lane
+Found document: 7. honoré théodore maxime gazan de la peyrière
+Found document: 8. papal states
+Found document: 9. godfrey macdonald, 3rd baron macdonald of slate
+    Correct answer  : iberia
+    INCORRECT answer: napoleonic wars
+    Correct answer  : iberian peninsula
+    INCORRECT answer: napoleonic wars
+
+      --- QUESTION 16
+In 1980 China founded a center for these cute creatures in its bamboo-rich Wolong Nature Preserve
+Found document: 0. chengdu
+Found document: 1. environmental movement
+Found document: 2. geography of china
+Found document: 3. academy of natural sciences of drexel university
+Found document: 4. chinese music
+Found document: 5. red panda
+Found document: 6. kawaii
+Found document: 7. biodiversity
+Found document: 8. monteverde cloud forest reserve
+Found document: 9. vietnamese cuisine
+    Correct answer  : panda
+    Returned answer : red panda
+
+      --- QUESTION 17
+1988: "Father Figure"
+Found document: 0. george michael
+Found document: 1. enrico castellani
+Found document: 2. subcultures in lithuania
+Found document: 3. edgar degas
+Found document: 4. schweizer sgs 1-24
+Found document: 5. marsyas
+Found document: 6. boston, lincolnshire
+Found document: 7. moscow ballet (united states)
+Found document: 8. prince (musician)
+Found document: 9. chuck barris
+    Correct answer  : george michael
+    Returned answer : george michael
+
+      --- QUESTION 18
+In an essay defending this 2011 film, Myrlie Evers-Williams said, "My mother was" this film "& so was her mother"
+Found document: 0. gloria steinem
+Found document: 1. whitney houston
+Found document: 2. shirley maclaine
+Found document: 3. john huston
+Found document: 4. my fair lady
+Found document: 5. bette davis
+Found document: 6. gore vidal
+Found document: 7. joan crawford
+Found document: 8. mary pickford
+Found document: 9. citizen kane
+    Correct answer  : the help
+    INCORRECT answer: citizen kane
+
+      --- QUESTION 19
+Father Michael McGivney founded this fraternal society for Catholic laymen in 1882
+Found document: 0. knights of columbus
+Found document: 1. georgetown university
+Found document: 2. studentenverbindung
+Found document: 3. omega psi phi
+Found document: 4. cartellverband
+Found document: 5. traditionalist catholic
+Found document: 6. st. vincent de paul church (manhattan)
+Found document: 7. sigma tau gamma
+Found document: 8. lambda theta phi
+Found document: 9. k.a.v. lovania leuven
+    Correct answer  : knights of columbus
+    Returned answer : knights of columbus
+
+      --- QUESTION 20
+Early projects of the WWF, this organization, included work with the bald eagle & the red wolf
+Found document: 0. golden eagle
+Found document: 1. maasai mara
+Found document: 2. tundi spring agardy
+Found document: 3. red wolf
+Found document: 4. itasca state park
+Found document: 5. yellowstone national park
+Found document: 6. united states fish and wildlife service
+Found document: 7. falconry
+Found document: 8. gray wolf
+Found document: 9. robert rossen
+    Correct answer  : world wide fund
+    INCORRECT answer: united states fish and wildlife service
+    Correct answer  : world wide fund for nature
+    INCORRECT answer: united states fish and wildlife service
+
+      --- QUESTION 21
+Indonesia's largest lizard, it's protected from poachers, though we wish it could breathe fire to do the job itself
+Found document: 0. komodo dragon
+Found document: 1. yellowstone national park
+Found document: 2. dingo
+Found document: 3. reptile
+Found document: 4. stanley baldwin
+Found document: 5. enoch powell
+Found document: 6. privatisation of british rail
+Found document: 7. dragon (middle-earth)
+Found document: 8. political positions of gary johnson
+Found document: 9. bonar law
+    Correct answer  : komodo dragon
+    Returned answer : komodo dragon
+
+      --- QUESTION 22
+Nov. 28, 1929! This man & his chief pilot Bernt Balchen fly to South Pole! Yowza! You'll be an admirable admiral, sir!
+Found document: 0. keith park
+Found document: 1. 1929
+Found document: 2. alan shepard
+Found document: 3. jimmy doolittle
+Found document: 4. battle of the coral sea
+Found document: 5. battle of the philippine sea
+Found document: 6. bristol aeroplane company
+Found document: 7. allan haines loughead
+Found document: 8. uss augusta (ca-31)
+Found document: 9. william bligh
+    Correct answer  : richard byrd
+    INCORRECT answer: jimmy doolittle
+    Correct answer  : richard e. byrd
+    INCORRECT answer: jimmy doolittle
+
+      --- QUESTION 23
+On May 5, 1878 Alice Chambers was the last person buried in this Dodge City, Kansas cemetery
+Found document: 0. boot hill
+Found document: 1. doc holliday
+Found document: 2. cremation
+Found document: 3. cemetery
+Found document: 4. gertrude stein
+Found document: 5. claude monet
+Found document: 6. zentralfriedhof
+Found document: 7. catacombs of paris
+Found document: 8. sutton hoo
+Found document: 9. kansas
+    Correct answer  : boot hill
+    Returned answer : boot hill
+
+      --- QUESTION 24
+The Royal Palace grounds feature a statue of King Norodom, who in the late 1800s was compelled to first put his country under the control of this European power; of course, it was sculpted in that country
+Found document: 0. history of cambodia
+Found document: 1. politics of cambodia
+Found document: 2. history of madagascar
+Found document: 3. khmer rouge
+Found document: 4. norway
+Found document: 5. history of france
+Found document: 6. majapahit
+Found document: 7. history of the netherlands
+Found document: 8. leopold ii of belgium
+Found document: 9. madagascar
+    Correct answer  : france
+    INCORRECT answer: leopold ii of belgium
+
+      --- QUESTION 25
+In the 400s B.C. this Chinese philosopher went into exile for 12 years
+Found document: 0. confucius
+Found document: 1. dating creation
+Found document: 2. cicero
+Found document: 3. sun yat-sen
+Found document: 4. history of korea
+Found document: 5. emperor gaozu of han
+Found document: 6. zhang binglin
+Found document: 7. chinese calendar
+Found document: 8. zhang heng
+Found document: 9. laozi
+    Correct answer  : confucius
+    Returned answer : confucius
+
+      --- QUESTION 26
+Bessie Coleman, the first black woman licensed as a pilot, landed a street named in her honor at this Chicago airport
+Found document: 0. bessie coleman
+Found document: 1. pilot (aeronautics)
+Found document: 2. ida cox
+Found document: 3. jackson, mississippi
+Found document: 4. lambert–st. louis international airport
+Found document: 5. michelle obama
+Found document: 6. history of tallahassee, florida
+Found document: 7. ethel waters
+Found document: 8. victoria earle matthews
+Found document: 9. louis armstrong
+    Correct answer  : o'hare
+    INCORRECT answer: lambert–st. louis international airport
+    Correct answer  : o'hare international airport
+    INCORRECT answer: lambert–st. louis international airport
+
+      --- QUESTION 27
+The Ammonites held sway in this Mideast country in the 1200s B.C. & the capital is named for them
+Found document: 0. semitic people
+Found document: 1. history of armenia
+Found document: 2. canaan
+Found document: 3. confucius
+Found document: 4. culture of italy
+Found document: 5. blacksmith
+Found document: 6. lycia
+Found document: 7. raichur district
+Found document: 8. history of the netherlands
+Found document: 9. history of cyprus
+    Correct answer  : jordan
+    INCORRECT answer: canaan
+
+      --- QUESTION 28
+"The Sum of All Fears"; he also won a screenwriting Oscar for "Good Will Hunting"
+Found document: 0. ben affleck
+Found document: 1. george clooney
+Found document: 2. john huston
+Found document: 3. jack nicholson
+Found document: 4. russell crowe
+Found document: 5. harrison ford
+Found document: 6. chris rock
+Found document: 7. stanley kubrick
+Found document: 8. phil hartman
+Found document: 9. the last detail
+    Correct answer  : ben affleck
+    Returned answer : ben affleck
+
+      --- QUESTION 29
+One of the N.Y. Times' headlines on this landmark 1973 Supreme Court decision was "Cardinals shocked"
+Found document: 0. regents of the university of california v. bakke
+Found document: 1. william howard taft
+Found document: 2. roe v. wade
+Found document: 3. gideon v. wainwright
+Found document: 4. kenesaw mountain landis
+Found document: 5. miller v. california
+Found document: 6. byron white
+Found document: 7. brown v. board of education
+Found document: 8. common law
+Found document: 9. freedom of religion in the united states
+    Correct answer  : roe v. wade
+    Returned answer : roe v. wade
+
+      --- QUESTION 30
+France's Philip IV--known as "The Fair"--had Jacques De Molay, the last Grand Master of this order, burned in 1314
+Found document: 0. philip iv of france
+Found document: 1. knights templar
+Found document: 2. louis xiv of france
+Found document: 3. charles iv of france
+Found document: 4. paris
+Found document: 5. history of france
+Found document: 6. henry iv of france
+Found document: 7. louis x of france
+Found document: 8. louis xiii of france
+Found document: 9. charles ii of spain
+    Correct answer  : knights templar
+    Returned answer : knights templar
+
+      --- QUESTION 31
+The Georgia O'Keeffe Museum
+Found document: 0. alfred stieglitz
+Found document: 1. museum of modern art
+Found document: 2. national museum of commercial aviation
+Found document: 3. yousuf karsh
+Found document: 4. dan budnik
+Found document: 5. juliette gordon low historic district
+Found document: 6. history of augusta, georgia
+Found document: 7. edward hopper
+Found document: 8. georgia (u.s. state)
+Found document: 9. phillips academy
+    Correct answer  : new mexico
+    INCORRECT answer: georgia (u.s. state)
+
+      --- QUESTION 32
+The name of this largest Moroccan city combines 2 Spanish words
+Found document: 0. casablanca
+Found document: 1. history of western sahara
+Found document: 2. canary islands
+Found document: 3. western sahara
+Found document: 4. oran
+Found document: 5. spain
+Found document: 6. melilla
+Found document: 7. agadir
+Found document: 8. languages of the united states
+Found document: 9. spanish language
+    Correct answer  : casablanca
+    Returned answer : casablanca
+
+      --- QUESTION 33
+Jell-O
+Found document: 0. jelling stones
+Found document: 1. mth electric trains
+Found document: 2. dietrich jells
+Found document: 3. camp roger
+Found document: 4. red–black tree
+Found document: 5. united artists
+Found document: 6. fibonacci heap
+Found document: 7. radix sort
+Found document: 8. atlanta and west point railroad
+Found document: 9. heap (data structure)
+    Correct answer  : kraft foods
+    INCORRECT answer: dietrich jells
+
+      --- QUESTION 34
+2011: Chicago mayor Tom Kane
+Found document: 0. nicole kidman
+Found document: 1. tom wilkinson
+Found document: 2. jessica lange
+Found document: 3. charlize theron
+Found document: 4. jessica chastain
+Found document: 5. warren beatty
+Found document: 6. jennifer hudson
+Found document: 7. steven spielberg
+Found document: 8. kelsey grammer
+Found document: 9. jack layton
+    Correct answer  : kelsey grammer
+    Returned answer : kelsey grammer
+
+      --- QUESTION 35
+Title residence of Otter, Flounder, Pinto & Bluto in a 1978 comedy
+Found document: 0. animal house
+Found document: 1. bluto
+Found document: 2. national lampoon (magazine)
+Found document: 3. british central africa protectorate
+Found document: 4. cheech & chong
+Found document: 5. flounder
+Found document: 6. bozo the clown
+Found document: 7. ford pinto
+Found document: 8. gigging
+Found document: 9. milla jovovich
+    Correct answer  : animal house
+    Returned answer : animal house
+
+      --- QUESTION 36
+Neurobiologist Amy Farrah Fowler on "The Big Bang Theory", in real life she has a Ph.D. in neuroscience from UCLA
+Found document: 0. mayim bialik
+Found document: 1. howard wolowitz
+Found document: 2. university of california, los angeles
+Found document: 3. blossom (tv series)
+Found document: 4. lewis binford
+Found document: 5. kay redfield jamison
+Found document: 6. hilary putnam
+Found document: 7. california institute of technology
+Found document: 8. danica mckellar
+Found document: 9. julie dash
+    Correct answer  : mayim bialik
+    Returned answer : mayim bialik
+
+      --- QUESTION 37
+In "The Deadlocked Election of 1800", James R. Sharp outlines the fall of this dueling vice president
+Found document: 0. aaron burr
+Found document: 1. vice president of the united states
+Found document: 2. richard mentor johnson
+Found document: 3. joe biden
+Found document: 4. presidency of thomas jefferson
+Found document: 5. john c. breckinridge
+Found document: 6. william henry harrison
+Found document: 7. george mcgovern
+Found document: 8. william o. douglas
+Found document: 9. daniel d. tompkins
+    Correct answer  : aaron burr
+    Returned answer : aaron burr
+
+      --- QUESTION 38
+He served in the KGB before becoming president & then prime minister of Russia
+Found document: 0. vladimir putin
+Found document: 1. mikhail gorbachev
+Found document: 2. boris berezovsky (businessman)
+Found document: 3. politics of russia
+Found document: 4. yuri andropov
+Found document: 5. rajiv gandhi
+Found document: 6. russian armed forces
+Found document: 7. foreign relations of cuba
+Found document: 8. keizō obuchi
+Found document: 9. józef piłsudski
+    Correct answer  : vladimir putin
+    Returned answer : vladimir putin
+
+      --- QUESTION 39
+When asked to describe herself, she says first & foremost, she is Malia & Sasha's mom
+Found document: 0. michelle obama
+Found document: 1. gloria steinem
+Found document: 2. martha jones
+Found document: 3. octavia e. butler
+Found document: 4. harriet tubman
+Found document: 5. srinagarindra
+Found document: 6. whitney houston
+Found document: 7. emma goldman
+Found document: 8. dorothy day
+Found document: 9. list of minor chuck characters
+    Correct answer  : michelle obama
+    Returned answer : michelle obama
+
+      --- QUESTION 40
+She wrote, "My candle burns at both ends... but, ah, my foes, and oh, my friends--it gives a lovely light"
+Found document: 0. john keats
+Found document: 1. henry wadsworth longfellow
+Found document: 2. kenneth patchen
+Found document: 3. emily dickinson
+Found document: 4. alexandra feodorovna (charlotte of prussia)
+Found document: 5. anna akhmatova
+Found document: 6. evelyn underhill
+Found document: 7. amir khusrow
+Found document: 8. lord byron
+Found document: 9. ode to the west wind
+    Correct answer  : edna st. vincent millay
+    INCORRECT answer: kenneth patchen
+
+      --- QUESTION 41
+In this Finnish city, the Lutheran Cathedral, also known as Tuomiokirkko
+Found document: 0. savonlinna
+Found document: 1. tampere
+Found document: 2. finnish orthodox church
+Found document: 3. porvoo
+Found document: 4. mikael agricola
+Found document: 5. magdeburg
+Found document: 6. helsinki
+Found document: 7. espoo
+Found document: 8. turku
+Found document: 9. history of finland
+    Correct answer  : helsinki
+    Returned answer : helsinki
+
+      --- QUESTION 42
+Milton Bradley games
+Found document: 0. axis & allies
+Found document: 1. hasbro
+Found document: 2. battleship (game)
+Found document: 3. vectrex
+Found document: 4. snakes and ladders
+Found document: 5. microvision
+Found document: 6. crayon
+Found document: 7. shawn bradley
+Found document: 8. the electric company
+Found document: 9. the price is right (u.s. game show)
+    Correct answer  : hasbro
+    Returned answer : hasbro
+
+      --- QUESTION 43
+The Kentucky & Virginia resolutions were passed to protest these controversial 1798 acts of Congress
+Found document: 0. kentucky and virginia resolutions
+Found document: 1. stamp act 1765
+Found document: 2. second continental congress
+Found document: 3. john c. breckinridge
+Found document: 4. patrick henry
+Found document: 5. history of slavery in indiana
+Found document: 6. texas annexation
+Found document: 7. u.s. state
+Found document: 8. slavery in the united states
+Found document: 9. bourbon whiskey
+    Correct answer  : the alien and sedition acts
+    INCORRECT answer: stamp act 1765
+
+      --- QUESTION 44
+1983: "Beat It"
+Found document: 0. fred davis (snooker player)
+Found document: 1. enrico castellani
+Found document: 2. black milk
+Found document: 3. juan lópez fontana
+Found document: 4. cliff thorburn
+Found document: 5. allan wells
+Found document: 6. george michael
+Found document: 7. mcdowell's no.1
+Found document: 8. john spencer (snooker player)
+Found document: 9. fiba european champions cup and euroleague history
+    Correct answer  : michael jackson
+    INCORRECT answer: george michael
+
+      --- QUESTION 45
+In 2009: Sookie Stackhouse
+Found document: 0. anna paquin
+Found document: 1. true blood
+Found document: 2. jessica lange
+Found document: 3. sophia loren
+Found document: 4. ang lee
+Found document: 5. warren beatty
+Found document: 6. geoffrey rush
+Found document: 7. glenn close
+Found document: 8. joan plowright
+Found document: 9. charlize theron
+    Correct answer  : anna paquin
+    INCORRECT answer: true blood
+
+      --- QUESTION 46
+This member of the Nixon & Ford cabinets was born in Furth, Germany in 1923
+Found document: 0. henry kissinger
+Found document: 1. richard nixon
+Found document: 2. william b. saxbe
+Found document: 3. strom thurmond
+Found document: 4. edward brooke
+Found document: 5. history of the united states (1964–80)
+Found document: 6. united states presidential line of succession
+Found document: 7. john connally
+Found document: 8. stanley baldwin
+Found document: 9. willy brandt
+    Correct answer  : henry kissinger
+    Returned answer : henry kissinger
+
+      --- QUESTION 47
+The High Kirk of St. Giles, where John Knox was minister
+Found document: 0. john knox
+Found document: 1. church of scotland
+Found document: 2. perth, scotland
+Found document: 3. arbroath
+Found document: 4. history of scotland
+Found document: 5. scottish episcopal church
+Found document: 6. edinburgh
+Found document: 7. glasgow cathedral
+Found document: 8. queen's hall, edinburgh
+Found document: 9. stobo kirk
+    Correct answer  : edinburgh
+    Returned answer : edinburgh
+
+      --- QUESTION 48
+For the brief time he attended, he was a rebel with a cause, even landing a lead role in a 1950 stage production
+Found document: 0. james dean
+Found document: 1. natalie wood
+Found document: 2. harold pinter
+Found document: 3. charlton heston
+Found document: 4. humphrey bogart
+Found document: 5. errol flynn
+Found document: 6. richard burton
+Found document: 7. kareem abdul-jabbar
+Found document: 8. ken russell
+Found document: 9. henry fonda
+    Correct answer  : james dean
+    Returned answer : james dean
+
+      --- QUESTION 49
+Fisher-Price toys
+Found document: 0. hasbro
+Found document: 1. cabbage patch kids
+Found document: 2. arthur treacher's
+Found document: 3. powel crosley, jr.
+Found document: 4. hiroshi yamauchi
+Found document: 5. pixar
+Found document: 6. dollar general
+Found document: 7. variety store
+Found document: 8. learning express toys
+Found document: 9. revell
+    Correct answer  : mattel
+    INCORRECT answer: pixar
+
+      --- QUESTION 50
+In a 1959 American kitchen exhibit in Moscow, he told Khrushchev, "In America, we like to make life easier for women"
+Found document: 0. american national exhibition
+Found document: 1. cuban missile crisis
+Found document: 2. jacqueline kennedy onassis
+Found document: 3. lee harvey oswald
+Found document: 4. richard nixon
+Found document: 5. dolores ibárruri
+Found document: 6. history of the people's republic of china (1949–76)
+Found document: 7. john mellencamp
+Found document: 8. konrad adenauer
+Found document: 9. mel gibson
+    Correct answer  : richard nixon
+    Returned answer : richard nixon
+
+      --- QUESTION 51
+One of his "Tales of a Wayside Inn" begins, "Listen, my children, and you shall hear of the midnight ride of Paul Revere"
+Found document: 0. henry wadsworth longfellow
+Found document: 1. baxter black
+Found document: 2. rapping
+Found document: 3. acrostic
+Found document: 4. john masefield
+Found document: 5. james russell lowell
+Found document: 6. fanny imlay
+Found document: 7. paul revere
+Found document: 8. irish poetry
+Found document: 9. the raven
+    Correct answer  : henry wadsworth longfellow
+    INCORRECT answer: paul revere
+
+      --- QUESTION 52
+This bestseller about problems on the McCain-Palin ticket became an HBO movie with Julianne Moore
+Found document: 0. game change
+Found document: 1. ed o'callaghan
+Found document: 2. gloria steinem
+Found document: 3. hannibal (film)
+Found document: 4. vice president of the united states
+Found document: 5. ed koch
+Found document: 6. michael moore
+Found document: 7. mike huckabee
+Found document: 8. joe lieberman
+Found document: 9. being erica
+    Correct answer  : game change
+    Returned answer : game change
+
+      --- QUESTION 53
+A 2-part episode of "JAG" introduced this Mark Harmon drama
+Found document: 0. cold feet
+Found document: 1. the sarah jane adventures
+Found document: 2. law & order
+Found document: 3. fair city
+Found document: 4. the west wing
+Found document: 5. bozo the clown
+Found document: 6. list of ncis characters
+Found document: 7. gunsmoke
+Found document: 8. doctors (soap opera)
+Found document: 9. soap opera
+    Correct answer  : ncis
+    Returned answer : list of ncis characters
+
+      --- QUESTION 54
+This port is the southernmost of South Africa's 3 capitals
+Found document: 0. urbanization in africa
+Found document: 1. zanzibar
+Found document: 2. portuguese mozambique
+Found document: 3. cape town
+Found document: 4. history of africa
+Found document: 5. johannesburg
+Found document: 6. dakar
+Found document: 7. canary islands
+Found document: 8. sub-saharan africa
+Found document: 9. kinshasa
+    Correct answer  : cape town
+    Returned answer : cape town
+
+      --- QUESTION 55
+Keats was quoting this Edmund Spenser poem when he told Shelley to "'load every rift' of your subject with ore"
+Found document: 0. john keats
+Found document: 1. ode
+Found document: 2. edmund spenser
+Found document: 3. ozymandias
+Found document: 4. wilfred owen
+Found document: 5. edmund blunden
+Found document: 6. english poetry
+Found document: 7. romanticism
+Found document: 8. orion (mythology)
+Found document: 9. john milton
+    Correct answer  : the faerie queene
+    INCORRECT answer: edmund spenser
+
+      --- QUESTION 56
+In an 1819 letter Keats wrote that this lord & poet "cuts a figure, but he is not figurative"
+Found document: 0. john keats
+Found document: 1. la belle dame sans merci
+Found document: 2. romanticism
+Found document: 3. hyperion (poem)
+Found document: 4. adonis
+Found document: 5. harold stewart
+Found document: 6. blank verse
+Found document: 7. orion (mythology)
+Found document: 8. edmund spenser
+Found document: 9. lord byron
+    Correct answer  : lord byron
+    Returned answer : lord byron
+
+      --- QUESTION 57
+This clear Greek liqueur is quite potent, so it's usually mixed with water, which turns it white & cloudy
+Found document: 0. ouzo
+Found document: 1. list of coffee beverages
+Found document: 2. liqueur
+Found document: 3. english cuisine
+Found document: 4. cider
+Found document: 5. fennel
+Found document: 6. midas
+Found document: 7. alum
+Found document: 8. pomegranate
+Found document: 9. sicilian cuisine
+    Correct answer  : ouzo
+    Returned answer : ouzo
+
+      --- QUESTION 58
+Feb. 1, National Freedom Day, is the date in 1865 when a resolution sent the states an amendment ending this
+Found document: 0. emancipation proclamation
+Found document: 1. slavery in the united states
+Found document: 2. history of lebanon
+Found document: 3. equal rights amendment
+Found document: 4. quit india movement
+Found document: 5. kentucky and virginia resolutions
+Found document: 6. william o. douglas
+Found document: 7. thaddeus stevens
+Found document: 8. history of cuba
+Found document: 9. dennis kucinich
+    Correct answer  : slavery
+    INCORRECT answer: emancipation proclamation
+    Correct answer  : slavery in the united states
+    INCORRECT answer: emancipation proclamation
+
+      --- QUESTION 59
+This person is the queen's representative in Canada; currently the office is held by David Johnston
+Found document: 0. governor general of canada
+Found document: 1. charles tupper
+Found document: 2. parliament of canada
+Found document: 3. house of commons of canada
+Found document: 4. university of calgary
+Found document: 5. lincoln alexander
+Found document: 6. prince philip, duke of edinburgh
+Found document: 7. head of state
+Found document: 8. commander-in-chief
+Found document: 9. university of saskatchewan
+    Correct answer  : governor general of canada
+    Returned answer : governor general of canada
+
+      --- QUESTION 60
+He earned the "fifth Beatle" nickname by producing all of the Beatles' albums
+Found document: 0. ringo starr
+Found document: 1. fifth beatle
+Found document: 2. george martin
+Found document: 3. the beatles (album)
+Found document: 4. jeff lynne
+Found document: 5. beatles for sale
+Found document: 6. rubber soul
+Found document: 7. twist and shout
+Found document: 8. help! (album)
+Found document: 9. 1 (the beatles album)
+    Correct answer  : george martin
+    Returned answer : george martin
+
+      --- QUESTION 61
+Early in their careers, Mark Twain & Bret Harte wrote pieces for this California city's Chronicle
+Found document: 0. bret harte
+Found document: 1. joaquin miller
+Found document: 2. george carlin
+Found document: 3. dave meltzer
+Found document: 4. ken howard
+Found document: 5. california gold rush
+Found document: 6. hunter s. thompson
+Found document: 7. walter winchell
+Found document: 8. william randolph hearst
+Found document: 9. tom wolfe
+    Correct answer  : san francisco
+    INCORRECT answer: california gold rush
+
+      --- QUESTION 62
+Large specimens of this marsupial can leap over barriers 6 feet high
+Found document: 0. kangaroo
+Found document: 1. koala
+Found document: 2. fauna of australia
+Found document: 3. kakapo
+Found document: 4. velociraptor
+Found document: 5. agathis australis
+Found document: 6. fauna of new guinea
+Found document: 7. eucalyptus regnans
+Found document: 8. eucalyptus
+Found document: 9. long jump
+    Correct answer  : kangaroo
+    Returned answer : kangaroo
+
+      --- QUESTION 63
+Because it's cured & stored in brine, this crumbly white cheese made from sheep's milk is often referred to as pickled cheese
+Found document: 0. feta
+Found document: 1. norwegian cuisine
+Found document: 2. breakfast
+Found document: 3. english cuisine
+Found document: 4. australian cuisine
+Found document: 5. sausage
+Found document: 6. mexican cuisine
+Found document: 7. quark (dairy product)
+Found document: 8. chinese cuisine
+Found document: 9. serbian cuisine
+    Correct answer  : feta
+    Returned answer : feta
+
+      --- QUESTION 64
+1927! Gene Tunney takes a long count in the squared circle but rises to defeat this "Manassa Mauler"! Howzabout that!
+Found document: 0. jack dempsey
+Found document: 1. max schmeling
+Found document: 2. byrds (album)
+Found document: 3. rock-paper-scissors
+Found document: 4. contra dance
+Found document: 5. new jersey route 37
+Found document: 6. charleston (dance)
+Found document: 7. ferdinand i of romania
+Found document: 8. josé raúl capablanca
+Found document: 9. eugene o'neill
+    Correct answer  : jack dempsey
+    Returned answer : jack dempsey
+
+      --- QUESTION 65
+Italian for "leader", it was especially applied to Benito Mussolini
+Found document: 0. alessandra mussolini
+Found document: 1. duce
+Found document: 2. history of albania
+Found document: 3. cult of personality
+Found document: 4. fascism in europe
+Found document: 5. vilfredo pareto
+Found document: 6. italian empire
+Found document: 7. history of italy
+Found document: 8. neo-fascism
+Found document: 9. italian constitutional referendum, 1946
+    Correct answer  : duce
+    Returned answer : duce
+
+      --- QUESTION 66
+The Kalamazoo Institute of Arts
+Found document: 0. lansing, michigan
+Found document: 1. akio takamori
+Found document: 2. museum
+Found document: 3. ian hornak
+Found document: 4. walker art center
+Found document: 5. iowa state university
+Found document: 6. thomas hart benton (painter)
+Found document: 7. national gallery of art
+Found document: 8. john rogers cox
+Found document: 9. utah museum of fine arts
+    Correct answer  : michigan
+    INCORRECT answer: museum
+
+      --- QUESTION 67
+The Sun Valley Center for the Arts
+Found document: 0. roanoke, virginia
+Found document: 1. phoenix, arizona
+Found document: 2. file:mobile public library 2008.jpg|thumb|the ben may main library on government street.
+Found document: 3. terre haute, indiana
+Found document: 4. xochicalco
+Found document: 5. kathmandu
+Found document: 6. mexico city
+Found document: 7. south dakota state university
+Found document: 8. boise, idaho
+Found document: 9. national gallery of art
+    Correct answer  : idaho
+    Returned answer : boise, idaho
+
+      --- QUESTION 68
+You can't mention this shortstop without mentioning his double-play associates Evers & Chance
+Found document: 0. joe tinker
+Found document: 1. hughie jennings
+Found document: 2. honus wagner
+Found document: 3. derek jeter
+Found document: 4. charlie gehringer
+Found document: 5. moe berg
+Found document: 6. humphrey bogart
+Found document: 7. rogers hornsby
+Found document: 8. triple play
+Found document: 9. ozzie smith
+    Correct answer  : joe tinker
+    Returned answer : joe tinker
+
+      --- QUESTION 69
+In 1840 Horace Greeley began publishing "The Log Cabin", a weekly campaign paper in support of this Whig candidate
+Found document: 0. horace greeley
+Found document: 1. william lyon mackenzie
+Found document: 2. william henry harrison
+Found document: 3. schuyler colfax
+Found document: 4. anti-masonic party
+Found document: 5. richard mentor johnson
+Found document: 6. thomas a. hendricks
+Found document: 7. victoria woodhull
+Found document: 8. communist party of canada
+Found document: 9. the day (new london)
+    Correct answer  : william henry harrison
+    Returned answer : william henry harrison
+
+      --- QUESTION 70
+Pierre Cauchon, Bishop of Beauvais, presided over the trial of this woman who went up in smoke May 30, 1431
+Found document: 0. joan of arc
+Found document: 1. medieval inquisition
+Found document: 2. roman catholic diocese of beauvais
+Found document: 3. tucker carlson
+Found document: 4. rosa parks
+Found document: 5. napoleon iii
+Found document: 6. whitney houston
+Found document: 7. michael bloomberg
+Found document: 8. loretta lynn
+Found document: 9. sinéad o'connor
+    Correct answer  : joan of arc
+    Returned answer : joan of arc
+
+      --- QUESTION 71
+This Wisconsin city claims to have built the USA's only granite dome
+Found document: 0. dome of the rock
+Found document: 1. madison, wisconsin
+Found document: 2. yosemite valley
+Found document: 3. saint isaac's cathedral
+Found document: 4. des moines, iowa
+Found document: 5. lake superior
+Found document: 6. al-aqsa mosque
+Found document: 7. temple mount
+Found document: 8. frank zeidler
+Found document: 9. st paul's cathedral
+    Correct answer  : madison
+    Returned answer : madison, wisconsin
+
+      --- QUESTION 72
+This Georgia paper is known as the AJC for short
+Found document: 0. the atlanta journal-constitution
+Found document: 1. cherokee language
+Found document: 2. the five orange pips
+Found document: 3. daily worker
+Found document: 4. rome news-tribune
+Found document: 5. naye prese
+Found document: 6. interstate 285
+Found document: 7. doc holliday
+Found document: 8. thoroughbred racing in australia
+Found document: 9. lester maddox
+    Correct answer  : the atlanta journal-constitution
+    Returned answer : the atlanta journal-constitution
+
+      --- QUESTION 73
+Wooden 2-story verandas in this Liberian capital are an architectural link to the U.S. south
+Found document: 0. monrovia
+Found document: 1. glenview mansion
+Found document: 2. architecture of india
+Found document: 3. armed forces of liberia
+Found document: 4. equatorial guinea
+Found document: 5. wellington
+Found document: 6. rhode island
+Found document: 7. liberia
+Found document: 8. jug tavern
+Found document: 9. cleveland
+    Correct answer  : monrovia
+    Returned answer : monrovia
+
+      --- QUESTION 74
+This New Orleans venue reopened Sept. 25, 2006
+Found document: 0. mercedes-benz superdome
+Found document: 1. louis armstrong new orleans international airport
+Found document: 2. allen toussaint
+Found document: 3. saenger theatre (new orleans, louisiana)
+Found document: 4. sadler's wells theatre
+Found document: 5. wesley barrow stadium
+Found document: 6. khtml
+Found document: 7. snug harbor (jazz club)
+Found document: 8. preservation hall jazz band
+Found document: 9. dillard university
+    Correct answer  : mercedes-benz superdome
+    INCORRECT answer: saenger theatre (new orleans, louisiana)
+    Correct answer  : the superdome
+    INCORRECT answer: saenger theatre (new orleans, louisiana)
+
+      --- QUESTION 75
+"The Hunt for Red October"; he went more comedic as Jack Donaghy on "30 Rock"
+Found document: 0. alec baldwin
+Found document: 1. red hot chili peppers
+Found document: 2. candy barr
+Found document: 3. harrison ford
+Found document: 4. list of eastenders characters (2010)
+Found document: 5. late night with conan o'brien
+Found document: 6. chris rock
+Found document: 7. dire straits
+Found document: 8. hey hey it's saturday
+Found document: 9. houston astros
+    Correct answer  : alec baldwin
+    Returned answer : alec baldwin
+
+      --- QUESTION 76
+Rita Dove titled a collection of poems "On the Bus with" this woman
+Found document: 0. rosa parks
+Found document: 1. lesbian
+Found document: 2. elizabeth barrett browning
+Found document: 3. louise erdrich
+Found document: 4. julie dash
+Found document: 5. katherine mansfield
+Found document: 6. nellie y. mckay
+Found document: 7. university of virginia
+Found document: 8. d. h. lawrence
+Found document: 9. queen latifah
+    Correct answer  : rosa parks
+    Returned answer : rosa parks
+
+      --- QUESTION 77
+"Patriot Games"; he's had other iconic roles, in space & underground
+Found document: 0. harrison ford
+Found document: 1. adam west
+Found document: 2. bill mumy
+Found document: 3. phil hartman
+Found document: 4. phil lamarr
+Found document: 5. puddle of mudd
+Found document: 6. robert downey, jr.
+Found document: 7. elijah wood
+Found document: 8. washington redskins
+Found document: 9. new york jets
+    Correct answer  : harrison ford
+    Returned answer : harrison ford
+
+      --- QUESTION 78
+This sacred structure dates from the late 600's A.D.
+Found document: 0. dome of the rock
+Found document: 1. cologne cathedral
+Found document: 2. chichen itza
+Found document: 3. circus maximus
+Found document: 4. caracol
+Found document: 5. anuradhapura
+Found document: 6. al-aqsa mosque
+Found document: 7. topkapı palace
+Found document: 8. dos pilas
+Found document: 9. selinunte
+    Correct answer  : dome of the rock
+    Returned answer : dome of the rock
+
+      --- QUESTION 79
+1988: "Man In The Mirror"
+Found document: 0. the land of make believe
+Found document: 1. stevie nicks
+Found document: 2. george michael
+Found document: 3. prince (musician)
+Found document: 4. celcom
+Found document: 5. enrico castellani
+Found document: 6. nico
+Found document: 7. mazda rx-7
+Found document: 8. the supremes
+Found document: 9. spacecraft
+    Correct answer  : michael jackson
+    INCORRECT answer: prince (musician)
+
+      --- QUESTION 80
+Matthias Church, or Matyas Templom, where Franz Joseph was crowned in 1867
+Found document: 0. history of buda castle
+Found document: 1. olomouc
+Found document: 2. votive church, vienna
+Found document: 3. hungary
+Found document: 4. bratislava
+Found document: 5. munich
+Found document: 6. frederick v, elector palatine
+Found document: 7. saint matthias
+Found document: 8. lviv
+Found document: 9. franz liszt
+    Correct answer  : budapest
+    INCORRECT answer: saint matthias
+
+      --- QUESTION 81
+Attending UCLA in the '60s, he was no "Meathead", he just played one later on television
+Found document: 0. kareem abdul-jabbar
+Found document: 1. university of california, los angeles
+Found document: 2. jackie robinson
+Found document: 3. animal crackers (film)
+Found document: 4. rob reiner
+Found document: 5. angela davis
+Found document: 6. heather graham
+Found document: 7. james dean
+Found document: 8. carroll o'connor
+Found document: 9. harry shearer
+    Correct answer  : rob reiner
+    Returned answer : rob reiner
+
+      --- QUESTION 82
+Kinch, Carter & LeBeau were all residents of Stalag 13 on this TV show
+Found document: 0. hogan's heroes
+Found document: 1. john carter (er)
+Found document: 2. jerry brown
+Found document: 3. spin city
+Found document: 4. georgia (u.s. state)
+Found document: 5. scottsboro boys
+Found document: 6. whose line is it anyway?
+Found document: 7. bad girls club
+Found document: 8. brookside
+Found document: 9. ohio state university
+    Correct answer  : hogan's heroes
+    Returned answer : hogan's heroes
+
+      --- QUESTION 83
+News flash! This less-than-yappy pappy is sixth veep to be nation's top dog after chief takes deep sleep!
+Found document: 0. adobe flash
+Found document: 1. super friends
+Found document: 2. ti msp430
+Found document: 3. flash memory
+Found document: 4. lighthouse
+Found document: 5. menopause
+Found document: 6. māori culture
+Found document: 7. teen titans
+Found document: 8. compactflash
+Found document: 9. pedestrian crossing
+    Correct answer  : calvin coolidge
+    INCORRECT answer: flash memory
+
+      --- QUESTION 84
+In 2001: The president of the United States on television
+Found document: 0. 24 (tv series)
+Found document: 1. jon voight
+Found document: 2. jessica lange
+Found document: 3. george clooney
+Found document: 4. ben affleck
+Found document: 5. sophia loren
+Found document: 6. natalie portman
+Found document: 7. geoffrey rush
+Found document: 8. martin sheen
+Found document: 9. jim broadbent
+    Correct answer  : martin sheen
+    Returned answer : martin sheen
+
+      --- QUESTION 85
+1989: "Miss You Much"
+Found document: 0. george michael
+Found document: 1. prince (musician)
+Found document: 2. carole king
+Found document: 3. i love the '80s strikes back
+Found document: 4. cnblue
+Found document: 5. the who
+Found document: 6. wolfman jack
+Found document: 7. stevie nicks
+Found document: 8. helix (band)
+Found document: 9. jean burns
+    Correct answer  : janet jackson
+    INCORRECT answer: stevie nicks
+
+      --- QUESTION 86
+1922: It's the end of an empire! This empire, in fact! After 600 years, it's goodbye, this, hello, Turkish Republic!
+Found document: 0. history of armenia
+Found document: 1. trabzon
+Found document: 2. ottoman empire
+Found document: 3. van, turkey
+Found document: 4. aftermath of world war i
+Found document: 5. mehmed vi
+Found document: 6. history of modern greece
+Found document: 7. christophor araratov
+Found document: 8. far eastern republic
+Found document: 9. macedonia (region)
+    Correct answer  : ottoman empire
+    Returned answer : ottoman empire
+
+      --- QUESTION 87
+Crest toothpaste
+Found document: 0. crest (toothpaste)
+Found document: 1. toothpaste
+Found document: 2. procter & gamble
+Found document: 3. rangers f.c.
+Found document: 4. heraldry
+Found document: 5. great north eastern railway
+Found document: 6. air india (football club)
+Found document: 7. jane wyman
+Found document: 8. kagu
+Found document: 9. chelsea f.c.
+    Correct answer  : procter & gamble
+    Returned answer : procter & gamble
+
+      --- QUESTION 88
+In 1888 this Chancellor told the Reichstag, "we Germans fear God, but nothing else in the world"
+Found document: 0. otto von bismarck
+Found document: 1. wilhelm ii, german emperor
+Found document: 2. imperial german navy
+Found document: 3. alfred rosenberg
+Found document: 4. munich massacre
+Found document: 5. søren kierkegaard
+Found document: 6. hermann göring
+Found document: 7. konrad adenauer
+Found document: 8. existentialism
+Found document: 9. immanuel kant
+    Correct answer  : otto von bismarck
+    Returned answer : otto von bismarck
+
+      --- QUESTION 89
+In 1787 he signed his first published poem "Axiologus"; axio- is from the Greek for "worth"
+Found document: 0. bliss carman
+Found document: 1. luis cernuda
+Found document: 2. horace
+Found document: 3. george crabbe
+Found document: 4. irish poetry
+Found document: 5. friedrich hölderlin
+Found document: 6. simonides of ceos
+Found document: 7. elizabeth barrett browning
+Found document: 8. harold stewart
+Found document: 9. homer
+    Correct answer  : william wordsworth
+    INCORRECT answer: friedrich hölderlin
+
+      --- QUESTION 90
+Not to be confused with karma, krama is a popular accessory sold in cambodia; the word means "scarf" in this national language of Cambodia
+Found document: 0. history of cambodia
+Found document: 1. politics of cambodia
+Found document: 2. khmer language
+Found document: 3. khmer rouge
+Found document: 4. siem reap
+Found document: 5. economy of cambodia
+Found document: 6. ikat
+Found document: 7. norodom buppha devi
+Found document: 8. mekong
+Found document: 9. paan
+    Correct answer  : khmer language
+    Returned answer : khmer language
+
+      --- QUESTION 91
+Phnom Penh's notorious gridlock is circumvented by the nimble tuk-tuk, a motorized taxi that's also known as an auto this, a similar Asian conveyance.
+Found document: 0. khmer rouge
+Found document: 1. music of barbados
+Found document: 2. khmer language
+Found document: 3. history of cambodia
+Found document: 4. mekong
+Found document: 5. cycle rickshaw
+Found document: 6. siem reap
+Found document: 7. olympic stadium (phnom penh)
+Found document: 8. coppersmith barbet
+Found document: 9. economy of cambodia
+    Correct answer  : rickshaw
+    Returned answer : cycle rickshaw
+
+      --- QUESTION 92
+1980: "Rock With You"
+Found document: 0. prince (musician)
+Found document: 1. george michael
+Found document: 2. stevie nicks
+Found document: 3. carole king
+Found document: 4. the moody blues
+Found document: 5. zz top
+Found document: 6. glam metal
+Found document: 7. the supremes
+Found document: 8. orchestral manoeuvres in the dark
+Found document: 9. adam ant
+    Correct answer  : michael jackson
+    INCORRECT answer: prince (musician)
+
+      --- QUESTION 93
+The Pulitzer-winning "The Making of the President 1960" covered this man's successful presidential campaign
+Found document: 0. hunter s. thompson
+Found document: 1. george mcgovern
+Found document: 2. history of the united states (1945–64)
+Found document: 3. michael dukakis
+Found document: 4. thomas e. dewey
+Found document: 5. wendell willkie
+Found document: 6. ralph nader
+Found document: 7. william henry harrison
+Found document: 8. the west wing
+Found document: 9. al smith
+    Correct answer  : jfk
+    INCORRECT answer: thomas e. dewey
+    Correct answer  : john f. kennedy
+    INCORRECT answer: thomas e. dewey
+
+      --- QUESTION 94
+In 1843 Isaac Dittenhoefer became the first pres. of this Jewish club whose name means "children of the covenant"
+Found document: 0. b'nai b'rith
+Found document: 1. christianity and judaism
+Found document: 2. jacob
+Found document: 3. cave of the patriarchs
+Found document: 4. lilith
+Found document: 5. isaac asimov
+Found document: 6. shekhinah
+Found document: 7. joseph b. soloveitchik
+Found document: 8. history of the jews in colonial america
+Found document: 9. jews as the chosen people
+    Correct answer  : b'nai b'rith
+    Returned answer : b'nai b'rith
+
+      --- QUESTION 95
+Don Knotts took over from Norman Fell as the resident landlord on this sitcom
+Found document: 0. don knotts
+Found document: 1. three's company
+Found document: 2. john ritter
+Found document: 3. tim conway
+Found document: 4. san pedro, laguna
+Found document: 5. 1994 northridge earthquake
+Found document: 6. social class in ecuador
+Found document: 7. county mayo
+Found document: 8. patterson park (neighborhood), baltimore
+Found document: 9. chinatown, manhattan
+    Correct answer  : three's company
+    Returned answer : three's company
+
+      --- QUESTION 96
+U.N. Res. 242 supports "secure and recognized boundaries" for Israel & neighbors following this June 1967 war
+Found document: 0. golan heights
+Found document: 1. camp david accords
+Found document: 2. israeli–palestinian conflict
+Found document: 3. annexation
+Found document: 4. 1949 armistice agreements
+Found document: 5. history of israel
+Found document: 6. history of lebanon
+Found document: 7. foreign relations of israel
+Found document: 8. united nations partition plan for palestine
+Found document: 9. west bank
+    Correct answer  : the six day war
+    INCORRECT answer: history of israel
+
+      --- QUESTION 97
+This blonde beauty who reprised her role as Amanda on the new "Melrose Place" was a psychology major
+Found document: 0. heather locklear
+Found document: 1. legally blonde (musical)
+Found document: 2. melrose place
+Found document: 3. hairspray (musical)
+Found document: 4. grant show
+Found document: 5. heather graham
+Found document: 6. maxwell caulfield
+Found document: 7. julie dash
+Found document: 8. university of california, los angeles
+Found document: 9. lisa rinna
+    Correct answer  : heather locklear
+    Returned answer : heather locklear
+
+      --- QUESTION 98
+The name of this dish of marinated lamb, skewered & grilled, comes from the Greek for "skewer" & also starts with "s"
+Found document: 0. souvlaki
+Found document: 1. awadhi cuisine
+Found document: 2. brazilian cuisine
+Found document: 3. breakfast
+Found document: 4. serbian cuisine
+Found document: 5. sausage
+Found document: 6. korean cuisine
+Found document: 7. english cuisine
+Found document: 8. sicilian cuisine
+Found document: 9. dim sum
+    Correct answer  : souvlaki
+    Returned answer : souvlaki
+
+      --- QUESTION 99
+Post-it notes
+Found document: 0. annie (musical)
+Found document: 1. ubm plc
+Found document: 2. bank of china (hong kong)
+Found document: 3. galen weston
+Found document: 4. taiwanization
+Found document: 5. postage stamps and postal history of the united states
+Found document: 6. houston chronicle
+Found document: 7. the washington post
+Found document: 8. us foods
+Found document: 9. post city magazines
+    Correct answer  : 3m
+    INCORRECT answer: bank of china (hong kong)
+
+      --- QUESTION 100
+In 2010: As Sherlock Holmes on film
+Found document: 0. robert downey, jr.
+Found document: 1. hans zimmer
+Found document: 2. sherlock holmes
+Found document: 3. i. a. l. diamond
+Found document: 4. basil rathbone
+Found document: 5. irene adler
+Found document: 6. celeste holm
+Found document: 7. feluda
+Found document: 8. deborah kerr
+Found document: 9. jeremy brett
+    Correct answer  : robert downey, jr.
+    Returned answer : robert downey, jr.
+
+      Accuracy         : 64%
+      Correct answers  : 64
+      Incorrect answers: 36

@@ -3,7 +3,7 @@ package datamining;
 public class App {
     public static void main(String[] args) {
         try {
-            boolean askGPT = false; // change this to switch between ChatGPT enhanced mode or normal
+            boolean askGPT = true; // change this to switch between ChatGPT enhanced mode or normal
             int nrOfDocs;
 
             DollarStoreWatson watson = new DollarStoreWatson(

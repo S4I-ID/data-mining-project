@@ -1,0 +1,536 @@
+      --- QUESTION 1
+newspapers the dominant paper in our nation capital it among the top 10 us papers in circulation
+    Correct answer  : the washington post
+    INCORRECT answer: the new york sun
+
+      --- QUESTION 2
+old year resolutions the practice of pre authorizing presidential use of force dates to a 1955 resolution re this island near mainland china
+    Correct answer  : taiwan
+    Returned answer : taiwan
+
+      --- QUESTION 3
+newspapers daniel hertzberg james b stewart of this paper shared a 1988 pulitzer for their stories about insider trading
+    Correct answer  : the wall street journal
+    Returned answer : the wall street journal
+
+      --- QUESTION 4
+broadway lyrics song that says you make me smile with my heart your looks are laughable unphotographable
+    Correct answer  : my funny valentine
+    INCORRECT answer: baul
+
+      --- QUESTION 5
+potpourri in 2011 bell ringers for this charity started accepting digital donations to its red kettle
+    Correct answer  : the salvation army
+    Returned answer : the salvation army
+
+      --- QUESTION 6
+state of the art museum the naples museum of art
+    Correct answer  : florida
+    INCORRECT answer: jen stark
+
+      --- QUESTION 7
+tin men this italian painter depicted the adoration of the golden calf
+    Correct answer  : tintoretto
+    Returned answer : tintoretto
+
+      --- QUESTION 8
+ucla celebrity alumni this woman who won consecutive heptathlons at the olympics went to ucla on a basketball scholarship
+    Correct answer  : jackie joyner-kersee
+    Returned answer : jackie joyner-kersee
+
+      --- QUESTION 9
+service organizations originally this club emblem was a wagon wheel now it a gearwheel with 24 cogs 6 spokes
+    Correct answer  : rotary international
+    INCORRECT answer: hammer and sickle
+
+      --- QUESTION 10
+african cities several bridges including el tahrir cross the nile in this capital
+    Correct answer  : cairo
+    Returned answer : cairo
+
+      --- QUESTION 11
+historical quotes after the fall of france in 1940 this general told his country france has lost a battle but france has not lost the war
+    Correct answer  : charles de gaulle
+    INCORRECT answer: philippe pétain
+historical quotes after the fall of france in 1940 this general told his country france has lost a battle but france has not lost the war
+    Correct answer  : de gaulle
+    INCORRECT answer: philippe pétain
+
+      --- QUESTION 12
+state of the art museum the taft museum of art
+    Correct answer  : ohio
+    INCORRECT answer: museum of science and industry (chicago)
+
+      --- QUESTION 13
+cemeteries the mast from the uss maine is part of the memorial to the ship crew at this national cemetery
+    Correct answer  : arlington national cemetery
+    INCORRECT answer: uss arizona memorial
+cemeteries the mast from the uss maine is part of the memorial to the ship crew at this national cemetery
+    Correct answer  : arlington cemetery
+    INCORRECT answer: uss arizona memorial
+
+      --- QUESTION 14
+golden globe winners in 2009 joker on film
+    Correct answer  : heath ledger
+    Returned answer : heath ledger
+
+      --- QUESTION 15
+historical hodgepodge it was the peninsula fought over in the peninsular war of 1808 to 1814
+    Correct answer  : iberia
+    INCORRECT answer: napoleonic wars
+historical hodgepodge it was the peninsula fought over in the peninsular war of 1808 to 1814
+    Correct answer  : iberian peninsula
+    INCORRECT answer: napoleonic wars
+
+      --- QUESTION 16
+conservation in 1980 china founded a center for these cute creatures in its bamboo rich wolong nature preserve
+    Correct answer  : panda
+    INCORRECT answer: chengdu
+conservation in 1980 china founded a center for these cute creatures in its bamboo rich wolong nature preserve
+    Correct answer  : giant panda
+    INCORRECT answer: chengdu
+
+      --- QUESTION 17
+'80s no1 hitmakers 1988 father figure
+    Correct answer  : george michael
+    Returned answer : george michael
+
+      --- QUESTION 18
+african american women in an essay defending this 2011 film myrlie evers williams said my mother was this film so was her mother
+    Correct answer  : the help
+    INCORRECT answer: gloria steinem
+
+      --- QUESTION 19
+service organizations father michael mcgivney founded this fraternal society for catholic laymen in 1882
+    Correct answer  : knights of columbus
+    Returned answer : knights of columbus
+
+      --- QUESTION 20
+conservation early projects of the wwf this organization included work with the bald eagle the red wolf
+    Correct answer  : world wide fund
+    INCORRECT answer: golden eagle
+conservation early projects of the wwf this organization included work with the bald eagle the red wolf
+    Correct answer  : world wide fund for nature
+    INCORRECT answer: golden eagle
+
+      --- QUESTION 21
+conservation indonesia largest lizard it protected from poachers though we wish it could breathe fire to do the job itself
+    Correct answer  : komodo dragon
+    Returned answer : komodo dragon
+
+      --- QUESTION 22
+1920s news flash nov 28 1929 this man his chief pilot bernt balchen fly to south pole yowza you'll be an admirable admiral sir
+    Correct answer  : richard byrd
+    INCORRECT answer: keith park
+1920s news flash nov 28 1929 this man his chief pilot bernt balchen fly to south pole yowza you'll be an admirable admiral sir
+    Correct answer  : richard e. byrd
+    INCORRECT answer: keith park
+
+      --- QUESTION 23
+cemeteries on may 5 1878 alice chambers was the last person buried in this dodge city kansas cemetery
+    Correct answer  : boot hill
+    Returned answer : boot hill
+
+      --- QUESTION 24
+cambodian history culture the royal palace grounds feature a statue of king norodom who in the late 1800s was compelled to first put his country under the control of this european power of course it was sculpted in that country
+    Correct answer  : france
+    INCORRECT answer: history of cambodia
+
+      --- QUESTION 25
+historical hodgepodge in the 400s bc this chinese philosopher went into exile for 12 years
+    Correct answer  : confucius
+    Returned answer : confucius
+
+      --- QUESTION 26
+african american women bessie coleman the first black woman licensed as a pilot landed a street named in her honor at this chicago airport
+    Correct answer  : o'hare
+    INCORRECT answer: bessie coleman
+african american women bessie coleman the first black woman licensed as a pilot landed a street named in her honor at this chicago airport
+    Correct answer  : o'hare international airport
+    INCORRECT answer: bessie coleman
+
+      --- QUESTION 27
+historical hodgepodge the ammonites held sway in this mideast country in the 1200s bc the capital is named for them
+    Correct answer  : jordan
+    INCORRECT answer: semitic people
+
+      --- QUESTION 28
+he played a guy named jack ryan in the sum of all fears he also won a screenwriting oscar for good will hunting
+    Correct answer  : ben affleck
+    Returned answer : ben affleck
+
+      --- QUESTION 29
+potpourri one of the ny times' headlines on this landmark 1973 supreme court decision was cardinals shocked
+    Correct answer  : roe v. wade
+    INCORRECT answer: regents of the university of california v. bakke
+
+      --- QUESTION 30
+i'm burnin' for you france philip iv known as the fair had jacques de molay the last grand master of this order burned in 1314
+    Correct answer  : knights templar
+    INCORRECT answer: philip iv of france
+
+      --- QUESTION 31
+state of the art museum the georgia o'keeffe museum
+    Correct answer  : new mexico
+    INCORRECT answer: alfred stieglitz
+
+      --- QUESTION 32
+african cities the name of this largest moroccan city combines 2 spanish words
+    Correct answer  : casablanca
+    Returned answer : casablanca
+
+      --- QUESTION 33
+name the parent company jell o
+    Correct answer  : kraft foods
+    INCORRECT answer: jelling stones
+
+      --- QUESTION 34
+golden globe winners 2011 chicago mayor tom kane
+    Correct answer  : kelsey grammer
+    INCORRECT answer: nicole kidman
+
+      --- QUESTION 35
+the residents title residence of otter flounder pinto bluto in a 1978 comedy
+    Correct answer  : animal house
+    Returned answer : animal house
+
+      --- QUESTION 36
+ucla celebrity alumni neurobiologist amy farrah fowler on the big bang theory in real life she has a phd in neuroscience from ucla
+    Correct answer  : mayim bialik
+    Returned answer : mayim bialik
+
+      --- QUESTION 37
+notes from the campaign trail in the deadlocked election of 1800 james r sharp outlines the fall of this dueling vice president
+    Correct answer  : aaron burr
+    Returned answer : aaron burr
+
+      --- QUESTION 38
+tin men he served in the kgb before becoming president then prime minister of russia
+    Correct answer  : vladimir putin
+    Returned answer : vladimir putin
+
+      --- QUESTION 39
+african american women when asked to describe herself she says first foremost she is malia sasha mom
+    Correct answer  : michelle obama
+    Returned answer : michelle obama
+
+      --- QUESTION 40
+poets poetry she wrote my candle burns at both ends but ah my foes and oh my friends it gives a lovely light
+    Correct answer  : edna st. vincent millay
+    INCORRECT answer: john keats
+
+      --- QUESTION 41
+capital city churches in this finnish city the lutheran cathedral also known as tuomiokirkko
+    Correct answer  : helsinki
+    INCORRECT answer: savonlinna
+
+      --- QUESTION 42
+name the parent company milton bradley games
+    Correct answer  : hasbro
+    INCORRECT answer: axis & allies
+
+      --- QUESTION 43
+old year resolutions the kentucky virginia resolutions were passed to protest these controversial 1798 acts of congress
+    Correct answer  : the alien and sedition acts
+    INCORRECT answer: kentucky and virginia resolutions
+
+      --- QUESTION 44
+'80s no1 hitmakers 1983 beat it
+    Correct answer  : michael jackson
+    INCORRECT answer: fred davis (snooker player)
+
+      --- QUESTION 45
+golden globe winners in 2009 sookie stackhouse
+    Correct answer  : anna paquin
+    Returned answer : anna paquin
+
+      --- QUESTION 46
+historical hodgepodge this member of the nixon ford cabinets was born in furth germany in 1923
+    Correct answer  : henry kissinger
+    Returned answer : henry kissinger
+
+      --- QUESTION 47
+capital city churches the high kirk of st giles where john knox was minister
+    Correct answer  : edinburgh
+    INCORRECT answer: john knox
+
+      --- QUESTION 48
+ucla celebrity alumni for the brief time he attended he was a rebel with a cause even landing a lead role in a 1950 stage production
+    Correct answer  : james dean
+    Returned answer : james dean
+
+      --- QUESTION 49
+name the parent company fisher price toys
+    Correct answer  : mattel
+    INCORRECT answer: hasbro
+
+      --- QUESTION 50
+historical quotes in a 1959 american kitchen exhibit in moscow he told khrushchev in america we like to make life easier for women
+    Correct answer  : richard nixon
+    INCORRECT answer: american national exhibition
+historical quotes in a 1959 american kitchen exhibit in moscow he told khrushchev in america we like to make life easier for women
+    Correct answer  : nixon
+    INCORRECT answer: american national exhibition
+
+      --- QUESTION 51
+poets poetry one of his tales of a wayside inn begins listen my children and you shall hear of the midnight ride of paul revere
+    Correct answer  : henry wadsworth longfellow
+    Returned answer : henry wadsworth longfellow
+
+      --- QUESTION 52
+notes from the campaign trail this bestseller about problems on the mccain palin ticket became an hbo movie with julianne moore
+    Correct answer  : game change
+    Returned answer : game change
+
+      --- QUESTION 53
+that 20 aughts show a 2 part episode of jag introduced this mark harmon drama
+    Correct answer  : ncis
+    INCORRECT answer: cold feet
+
+      --- QUESTION 54
+african cities this port is the southernmost of south africa 3 capitals
+    Correct answer  : cape town
+    INCORRECT answer: urbanization in africa
+
+      --- QUESTION 55
+the quotable keats keats was quoting this edmund spenser poem when he told shelley to 'load every rift' of your subject with ore
+    Correct answer  : the faerie queene
+    INCORRECT answer: john keats
+
+      --- QUESTION 56
+the quotable keats in an 1819 letter keats wrote that this lord poet cuts a figure but he is not figurative
+    Correct answer  : lord byron
+    INCORRECT answer: john keats
+
+      --- QUESTION 57
+greek food drink this clear greek liqueur is quite potent so it usually mixed with water which turns it white cloudy
+    Correct answer  : ouzo
+    Returned answer : ouzo
+
+      --- QUESTION 58
+old year resolutions feb 1 national freedom day is the date in 1865 when a resolution sent the states an amendment ending this
+    Correct answer  : slavery
+    INCORRECT answer: emancipation proclamation
+old year resolutions feb 1 national freedom day is the date in 1865 when a resolution sent the states an amendment ending this
+    Correct answer  : slavery in the united states
+    INCORRECT answer: emancipation proclamation
+
+      --- QUESTION 59
+ranks titles this person is the queen representative in canada currently the office is held by david johnston
+    Correct answer  : governor general of canada
+    Returned answer : governor general of canada
+
+      --- QUESTION 60
+tin men he earned the fifth beatle nickname by producing all of the beatles' albums
+    Correct answer  : george martin
+    INCORRECT answer: ringo starr
+
+      --- QUESTION 61
+newspapers early in their careers mark twain bret harte wrote pieces for this california city chronicle
+    Correct answer  : san francisco
+    INCORRECT answer: bret harte
+
+      --- QUESTION 62
+potpourri large specimens of this marsupial can leap over barriers 6 feet high
+    Correct answer  : kangaroo
+    Returned answer : kangaroo
+
+      --- QUESTION 63
+greek food drink because it cured stored in brine this crumbly white cheese made from sheep milk is often referred to as pickled cheese
+    Correct answer  : feta
+    Returned answer : feta
+
+      --- QUESTION 64
+1920s news flash 1927 gene tunney takes a long count in the squared circle but rises to defeat this manassa mauler howzabout that
+    Correct answer  : jack dempsey
+    Returned answer : jack dempsey
+
+      --- QUESTION 65
+ranks titles italian for leader it was especially applied to benito mussolini
+    Correct answer  : duce
+    INCORRECT answer: alessandra mussolini
+
+      --- QUESTION 66
+state of the art museum the kalamazoo institute of arts
+    Correct answer  : michigan
+    INCORRECT answer: lansing, michigan
+
+      --- QUESTION 67
+state of the art museum the sun valley center for the arts
+    Correct answer  : idaho
+    INCORRECT answer: roanoke, virginia
+
+      --- QUESTION 68
+tin men you can't mention this shortstop without mentioning his double play associates evers chance
+    Correct answer  : joe tinker
+    Returned answer : joe tinker
+
+      --- QUESTION 69
+newspapers in 1840 horace greeley began publishing the log cabin a weekly campaign paper in support of this whig candidate
+    Correct answer  : william henry harrison
+    INCORRECT answer: horace greeley
+
+      --- QUESTION 70
+i'm burnin' for you pierre cauchon bishop of beauvais presided over the trial of this woman who went up in smoke may 30 1431
+    Correct answer  : joan of arc
+    Returned answer : joan of arc
+
+      --- QUESTION 71
+complete dom ination this wisconsin city claims to have built the usa only granite dome
+    Correct answer  : madison
+    INCORRECT answer: dome of the rock
+complete dom ination this wisconsin city claims to have built the usa only granite dome
+    Correct answer  : madison, wisconsin
+    INCORRECT answer: dome of the rock
+
+      --- QUESTION 72
+newspapers this georgia paper is known as the ajc for short
+    Correct answer  : the atlanta journal-constitution
+    Returned answer : the atlanta journal-constitution
+
+      --- QUESTION 73
+african cities wooden 2 story verandas in this liberian capital are an architectural link to the us south
+    Correct answer  : monrovia
+    Returned answer : monrovia
+
+      --- QUESTION 74
+complete dom ination this new orleans venue reopened sept 25 2006
+    Correct answer  : mercedes-benz superdome
+    Returned answer : mercedes-benz superdome
+
+      --- QUESTION 75
+he played a guy named jack ryan in the hunt for red october he went more comedic as jack donaghy on 30 rock
+    Correct answer  : alec baldwin
+    Returned answer : alec baldwin
+
+      --- QUESTION 76
+african american women rita dove titled a collection of poems on the bus with this woman
+    Correct answer  : rosa parks
+    Returned answer : rosa parks
+
+      --- QUESTION 77
+he played a guy named jack ryan in patriot games he had other iconic roles in space underground
+    Correct answer  : harrison ford
+    Returned answer : harrison ford
+
+      --- QUESTION 78
+complete dom ination this sacred structure dates from the late 600 ad
+    Correct answer  : dome of the rock
+    Returned answer : dome of the rock
+
+      --- QUESTION 79
+'80s no1 hitmakers 1988 man in the mirror
+    Correct answer  : michael jackson
+    INCORRECT answer: the land of make believe
+
+      --- QUESTION 80
+capital city churches matthias church or matyas templom where franz joseph was crowned in 1867
+    Correct answer  : budapest
+    INCORRECT answer: history of buda castle
+
+      --- QUESTION 81
+ucla celebrity alumni attending ucla in the '60s he was no meathead he just played one later on television
+    Correct answer  : rob reiner
+    INCORRECT answer: kareem abdul-jabbar
+
+      --- QUESTION 82
+the residents kinch carter lebeau were all residents of stalag 13 on this tv show
+    Correct answer  : hogan's heroes
+    Returned answer : hogan's heroes
+
+      --- QUESTION 83
+1920s news flash news flash this less than yappy pappy is sixth veep to be nation top dog after chief takes deep sleep
+    Correct answer  : calvin coolidge
+    INCORRECT answer: adobe flash
+
+      --- QUESTION 84
+golden globe winners in 2001 the president of the united states on television
+    Correct answer  : martin sheen
+    INCORRECT answer: 24 (tv series)
+
+      --- QUESTION 85
+'80s no1 hitmakers 1989 miss you much
+    Correct answer  : janet jackson
+    INCORRECT answer: george michael
+
+      --- QUESTION 86
+1920s news flash 1922 it the end of an empire this empire in fact after 600 years it goodbye this hello turkish republic
+    Correct answer  : ottoman empire
+    INCORRECT answer: history of armenia
+
+      --- QUESTION 87
+name the parent company crest toothpaste
+    Correct answer  : procter & gamble
+    INCORRECT answer: crest (toothpaste)
+
+      --- QUESTION 88
+historical quotes in 1888 this chancellor told the reichstag we germans fear god but nothing else in the world
+    Correct answer  : otto von bismarck
+    Returned answer : otto von bismarck
+
+      --- QUESTION 89
+poets poetry in 1787 he signed his first published poem axiologus axio is from the greek for worth
+    Correct answer  : william wordsworth
+    INCORRECT answer: bliss carman
+
+      --- QUESTION 90
+cambodian history culture not to be confused with karma krama is a popular accessory sold in cambodia the word means scarf in this national language of cambodia
+    Correct answer  : khmer language
+    INCORRECT answer: history of cambodia
+
+      --- QUESTION 91
+cambodian history culture phnom penh notorious gridlock is circumvented by the nimble tuk tuk a motorized taxi that also known as an auto this a similar asian conveyance
+    Correct answer  : rickshaw
+    INCORRECT answer: khmer rouge
+
+      --- QUESTION 92
+'80s no1 hitmakers 1980 rock with you
+    Correct answer  : michael jackson
+    INCORRECT answer: prince (musician)
+
+      --- QUESTION 93
+notes from the campaign trail the pulitzer winning the making of the president 1960 covered this man successful presidential campaign
+    Correct answer  : jfk
+    INCORRECT answer: hunter s. thompson
+notes from the campaign trail the pulitzer winning the making of the president 1960 covered this man successful presidential campaign
+    Correct answer  : john f. kennedy
+    INCORRECT answer: hunter s. thompson
+
+      --- QUESTION 94
+service organizations in 1843 isaac dittenhoefer became the first pres of this jewish club whose name means children of the covenant
+    Correct answer  : b'nai b'rith
+    Returned answer : b'nai b'rith
+
+      --- QUESTION 95
+the residents don knotts took over from norman fell as the resident landlord on this sitcom
+    Correct answer  : three's company
+    INCORRECT answer: don knotts
+
+      --- QUESTION 96
+old year resolutions un res 242 supports secure and recognized boundaries for israel neighbors following this june 1967 war
+    Correct answer  : the six day war
+    INCORRECT answer: golan heights
+
+      --- QUESTION 97
+ucla celebrity alumni this blonde beauty who reprised her role as amanda on the new melrose place was a psychology major
+    Correct answer  : heather locklear
+    Returned answer : heather locklear
+
+      --- QUESTION 98
+greek food drink the name of this dish of marinated lamb skewered grilled comes from the greek for skewer also starts with s
+    Correct answer  : souvlaki
+    Returned answer : souvlaki
+
+      --- QUESTION 99
+name the parent company post it notes
+    Correct answer  : 3m
+    INCORRECT answer: annie (musical)
+
+      --- QUESTION 100
+golden globe winners in 2010 as sherlock holmes on film
+    Correct answer  : robert downey, jr.
+    Returned answer : robert downey, jr.
+
+      Accuracy         : 44%
+      Correct answers  : 44
+      Incorrect answers: 56
